@@ -1,6 +1,9 @@
 ---
 title: 'DMCA'
 layout: '~/layouts/MarkdownLayout.astro'
+metaRobots: 'index, nofollow, nosnippet, max-image-preview:none, 
+max-snippet:-1, max-video-preview:10, noarchive, unavailable_after: 2020-09-21, 
+noimageindex, notranslate,'
 ---
 
 _Last updated_: January 06, 2023

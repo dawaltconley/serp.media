@@ -34,3 +34,11 @@ export function responsiveTablesRehypePlugin() {
     }
   };
 }
+
+export function metaRobotsRemarkPlugin() {
+  return function (tree, file) {
+    console.log({ tree, file });
+    // const { metaRobots } = file.data.astro.frontmatter;
+    // const parsed = metaRobots.split(/\s*,\s*/);
+  };
+}

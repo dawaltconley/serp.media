@@ -26,6 +26,10 @@ const {
   twitter = {},
 } = Astro.props;
 
+console.time('parse');
+const meta = robotsString ? parseMetaRobots(robotsString) : {};
+console.timeEnd('parse');
+
 const seoProps: AstroSeoProps = merge(
   {
     title: '',
@@ -64,7 +68,8 @@ const seoProps: AstroSeoProps = merge(
     openGraph: { url: canonical, ...openGraph },
     twitter: twitter,
   },
-  robotsString ? parseMetaRobots(robotsString) : {}
+  meta
+  /* robotsString ? parseMetaRobots(robotsString) : {} */
 );
 ---
 

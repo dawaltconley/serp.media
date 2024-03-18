@@ -2,6 +2,11 @@
 
 title: "The Best 35mm Camera Cases"
 
+metaRobots: 'index, follow, foobar, barbaz:100, unavailable_after: 2020-01-01, 
+notranslate, index, nofollow, nosnippet, max-image-preview:none, 
+max-snippet:-1, max-video-preview:10, noarchive, unavailable_after: 2020-09-21, 
+noimageindex, notranslate,'
+
 slug: "/shop/35mm-camera-cases/"
 
 excerpt: ""

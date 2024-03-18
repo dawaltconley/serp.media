@@ -84,3 +84,40 @@ export function parseMetaRobots(robotsString: string): MetaRobots {
 
   return parsed;
 }
+
+// export function parseMetaRobots(robotsString: string): MetaRobots {
+//   return (
+//     robotsString.split(/\s*,\s*/).reduce<MetaRobots>((parsed, field) => {
+//       if (field === 'index') parsed.noindex = false;
+//       if (field === 'noindex') parsed.noindex = true;
+//       if (field === 'follow') parsed.nofollow = false;
+//       if (field === 'nofollow') parsed.nofollow = true;
+//       if (field === 'none') {
+//         parsed.noindex = true;
+//         parsed.nofollow = true;
+//       }
+//
+//       const { robotsProps = {} } = parsed;
+//       if (field === 'nosnippet') robotsProps.nosnippet = true;
+//       if (field === 'noarchive') robotsProps.noarchive = true;
+//       if (field === 'noimageindex') robotsProps.noimageindex = true;
+//       if (field === 'notranslate') robotsProps.notranslate = true;
+//       if (field.startsWith('max-snippet')) {
+//         const value = Number(field.split(':')[1]);
+//         robotsProps.maxSnippet = !Number.isNaN(value) ? value : undefined;
+//       }
+//       if (field.startsWith('max-image-preview')) {
+//         const value = field.split(':')[1];
+//         robotsProps.maxImagePreview = isImagePrevSize(value) ? value : undefined;
+//       }
+//       if (field.startsWith('max-video-preview')) {
+//         const value = Number(field.split(':')[1]);
+//         robotsProps.maxVideoPreview = !Number.isNaN(value) ? value : undefined;
+//       }
+//       if (field.startsWith('unavailable_after')) {
+//         robotsProps.unavailableAfter = field.split(':')[1] || undefined;
+//       }
+//       return { ...parsed, robotsProps };
+//     }, {}) || {}
+//   );
+// }
