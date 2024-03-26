@@ -1,6 +1,7 @@
 import type { PaginateFunction } from 'astro';
 import { getCollection } from 'astro:content';
-import type { CollectionEntry, ContentEntryMap } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import type { Category } from '~/content/config';
 import type { Post } from '~/types';
 import { APP_BLOG } from '~/utils/config';
 import { cleanSlug, trimSlash, BLOG_BASE, POST_PERMALINK_PATTERN, CATEGORY_BASE, TAG_BASE } from './permalinks';
@@ -40,7 +41,7 @@ const generatePermalink = async ({
     .join('/');
 };
 
-const getNormalizedPost = async (post: CollectionEntry<keyof ContentEntryMap>): Promise<Post> => {
+const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> => {
   const { id, slug: rawSlug = '', data, collection } = post;
   const { Content, remarkPluginFrontmatter } = await post.render();
 
@@ -98,14 +99,18 @@ const getNormalizedPost = async (post: CollectionEntry<keyof ContentEntryMap>): 
 
 const load = async function (): Promise<Array<Post>> {
   const posts = await getCollection('post');
-  const movies = await getCollection('movies');
+  console.log('getting post collection');
 
-  const allPosts = [...posts, ...movies];
+  const allPosts = posts;
+  console.log('normalizing posts');
   const normalizedPosts = allPosts.map(async (post) => await getNormalizedPost(post));
+  console.log('sorting posts');
 
   const results = (await Promise.all(normalizedPosts))
     .sort((a, b) => b.publishDate.valueOf() - a.publishDate.valueOf())
     .filter((post) => !post.draft);
+
+  console.log('loaded posts');
 
   return results;
 };
@@ -164,34 +169,26 @@ export const findPostsByIds = async (ids: Array<string>): Promise<Array<Post>> =
 };
 
 /** */
-export const findLatestPostsByCollection = async ({ count, collectionName = 'post' }: { count?: number, collectionName: keyof ContentEntryMap }): Promise<Array<Post>> => {
+export const findLatestPostsByCollection = async ({
+  count,
+  collectionName = 'Posts',
+}: {
+  count?: number;
+  collectionName: keyof Category;
+}): Promise<Array<Post>> => {
   const _count = count || 4;
   const posts = await fetchPosts();
 
-  return posts ? posts.filter(post => post.collection === collectionName).slice(0, _count) : [];
+  return posts ? posts.filter((post) => post.category === collectionName).slice(0, _count) : [];
 };
 
 /** */
 export const getStaticPathsBlogList = async ({ paginate }: { paginate: PaginateFunction }) => {
   if (!isBlogEnabled || !isBlogListRouteEnabled) return [];
-
-  const collections = ['movies', 'post'];
-  const posts = await fetchPosts();
-
-  return collections.flatMap((collection: keyof ContentEntryMap) => {
-    const filteredPosts = posts.filter(post => post.collection === collection);
-
-    const param = collection === "movies" ? "movies" : BLOG_BASE;
-    const title = collection === "movies" ? "Movies" : "Blog";
-
-    return paginate(filteredPosts, {
-      params: { blog: param || undefined },
-      pageSize: blogPostsPerPage,
-      props: {
-        title,
-      }
-    });
-  })
+  return paginate(await fetchPosts(), {
+    params: { blog: BLOG_BASE || undefined },
+    pageSize: blogPostsPerPage,
+  });
 };
 
 /** */

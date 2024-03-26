@@ -1,15 +1,15 @@
 ---
-import type { ContentEntryMap } from "astro:content";
+import type { ContentEntryMap } from 'astro:content';
 
-import { APP_BLOG } from "~/utils/config";
+import { APP_BLOG } from '~/utils/config';
 
-import Grid from "~/components/blog/Grid.astro";
+import Grid from '~/components/blog/Grid.astro';
 
-import { getBlogPermalink, getPermalink } from "~/utils/permalinks";
-import { findLatestPostsByCollection } from "~/utils/blog";
-import WidgetWrapper from "~/components/ui/WidgetWrapper.astro";
-import type { Widget } from "~/types";
-import Button from "../ui/Button.astro";
+import { getBlogPermalink, getPermalink } from '~/utils/permalinks';
+import { findLatestPostsByCollection } from '~/utils/blog';
+import WidgetWrapper from '~/components/ui/WidgetWrapper.astro';
+import type { Widget } from '~/types';
+import Button from '../ui/Button.astro';
 
 export interface Props extends Widget {
   title?: string;
@@ -17,22 +17,21 @@ export interface Props extends Widget {
   linkUrl?: string | URL;
   information?: string;
   count?: number;
-  collection?: keyof ContentEntryMap
+  collection?: keyof ContentEntryMap;
 }
 
-const collection = Astro.props?.collection || 'post';
-const linkUrl = collection === "movies" ? getPermalink(collection, "post") : getBlogPermalink()
-
 const {
-  title = await Astro.slots.render("title"),
-  linkText = "View all",
-  information = await Astro.slots.render("information"),
+  title = await Astro.slots.render('title'),
+  linkText = 'View all',
+  linkUrl = getBlogPermalink(),
+  information = await Astro.slots.render('information'),
   count = 50,
+  collection = 'post'
 
   id,
   isDark = false,
   classes = {},
-  bg = await Astro.slots.render("bg"),
+  bg = await Astro.slots.render('bg'),
 } = Astro.props;
 
 const posts = APP_BLOG.isEnabled ? await findLatestPostsByCollection({ count, collectionName: collection }) : [];
@@ -49,7 +48,10 @@ const posts = APP_BLOG.isEnabled ? await findLatestPostsByCollection({ count, co
               set:html={title}
             />
             {APP_BLOG.list.isEnabled && linkText && linkUrl && (
-              <Button variant="link" href={linkUrl}> {linkText} »</Button>
+              <Button variant="link" href={linkUrl}>
+                {' '}
+                {linkText} »
+              </Button>
             )}
           </div>
         )}
