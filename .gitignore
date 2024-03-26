@@ -2,6 +2,7 @@
 dist/
 .output/
 astrowind/
+z/
 
 # dependencies
 node_modules/
