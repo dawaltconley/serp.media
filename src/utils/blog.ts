@@ -54,7 +54,6 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     image,
     tags: rawTags = [],
     category: rawCategory,
-    author,
     draft = false,
     metadata = {},
     metaRobots,
@@ -81,9 +80,8 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
 
     collection,
 
-    category: category,
+    category: rawCategory,
     tags: tags,
-    author: author,
 
     draft: draft,
 
@@ -174,7 +172,7 @@ export const findLatestPostsByCollection = async ({
   collectionName = 'Posts',
 }: {
   count?: number;
-  collectionName: keyof Category;
+  collectionName: Category;
 }): Promise<Array<Post>> => {
   const _count = count || 4;
   const posts = await fetchPosts();

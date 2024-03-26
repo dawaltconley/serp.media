@@ -6,6 +6,8 @@ slug: "/shop/best/canon-rebel-t7-camera-cases/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.797236"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Canon+Rebel+T7+Camera+Cases-1/w=900,h=500,fit=pad,background=black"

@@ -6,6 +6,8 @@ slug: "/shop/best/asmr-microphones/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.741156"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/ASMR+Microphones-2/w=720,h=540,fit=pad,background=black"

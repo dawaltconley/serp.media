@@ -6,6 +6,8 @@ slug: "/shop/sony-camera-cases/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.817941"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Sony-Camera-Cases-1/w=900,h=500,fit=pad,background=black"

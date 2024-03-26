@@ -6,6 +6,8 @@ slug: "/shop/sony-cyber-shot-camera-cases/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.823061"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Sony+Cyber+Shot+Camera+Cases-6/w=720,h=540,fit=pad,background=black"

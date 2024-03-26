@@ -6,6 +6,8 @@ slug: "/shop/best/captain-america-gaming-chairs/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.762590"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Captain+America+Gaming+Chairs-1/w=900,h=500,fit=pad,background=black"

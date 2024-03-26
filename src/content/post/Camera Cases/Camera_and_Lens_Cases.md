@@ -6,6 +6,8 @@ slug: "/shop/camera-and-lens-cases/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.822193"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Camera+and+Lens+Cases-1/w=900,h=500,fit=pad,background=black"

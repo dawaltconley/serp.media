@@ -6,6 +6,8 @@ slug: "/shop/best/zero-two-mouse-pad/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.710892"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Zero-Two-Mouse-Pad-1/w=900,h=500,fit=pad,background=black"

@@ -6,6 +6,8 @@ slug: "/shop/best/record-players-with-cd-players/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.846119"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Record+Players+with+CD+Players-1/w=900,h=500,fit=pad,background=black"

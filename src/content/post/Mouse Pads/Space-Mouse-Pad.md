@@ -6,6 +6,8 @@ slug: "/shop/best/space-mouse-pad/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.664137"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Space-Mouse-Pad-1/w=900,h=500,fit=pad,background=black"

@@ -6,6 +6,8 @@ slug: "/shop/best/3d-mouse-pad/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.673332"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/3D-Mouse-Pad-1/w=900,h=500,fit=pad,background=black"

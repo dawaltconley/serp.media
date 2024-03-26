@@ -1,5 +1,5 @@
 ---
-import type { ContentEntryMap } from 'astro:content';
+import type { Category } from '~/content/config';
 
 import { APP_BLOG } from '~/utils/config';
 
@@ -17,7 +17,7 @@ export interface Props extends Widget {
   linkUrl?: string | URL;
   information?: string;
   count?: number;
-  collection?: keyof ContentEntryMap;
+  collection?: Category;
 }
 
 const {
@@ -26,7 +26,7 @@ const {
   linkUrl = getBlogPermalink(),
   information = await Astro.slots.render('information'),
   count = 50,
-  collection = 'post'
+  collection = 'Posts',
 
   id,
   isDark = false,

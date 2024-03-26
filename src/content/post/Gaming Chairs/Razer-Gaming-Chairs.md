@@ -6,6 +6,8 @@ slug: "/shop/best/razer-gaming-chairs/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.761488"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Razer+Gaming+Chairs-1/w=900,h=500,fit=pad,background=black"

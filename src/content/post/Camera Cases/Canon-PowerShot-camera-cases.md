@@ -6,6 +6,8 @@ slug: "/shop/best/canon-powershot-camera-cases/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.820954"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Canon+PowerShot+camera+cases-1/w=900,h=500,fit=pad,background=black"

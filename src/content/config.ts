@@ -45,10 +45,11 @@ const postCollection = defineCollection({
     updateDate: z.coerce.date().optional(),
     image: z.string().optional(),
     category: postCategories,
-    tags: z.array(z.string()),
-    website: z.string(),
+    tags: z.array(z.string()).optional(),
     draft: z.boolean().optional(),
     metadata,
+    seoTitle: z.string().optional(),
+    metaRobots: z.string().optional(),
   }),
 });
 
@@ -68,10 +69,8 @@ export async function GET(context) {
     site: context.site,
     items: blog.map((post) => ({
       title: post.data.title,
-      author: post.data.author,
-      pubDate: post.data.pubDate,
-      description: post.data.description,
-      customData: post.data.customData,
+      // author: post.data.author,
+      pubDate: post.data.publishDate,
       content: post.body, // Assuming you have the content of each post in post.body
       link: `/posts/${post.slug}/`, // Make sure the link structure matches your routing
     })),

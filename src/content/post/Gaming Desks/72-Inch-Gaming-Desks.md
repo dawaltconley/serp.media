@@ -6,6 +6,8 @@ slug: "/shop/best/72-inch-gaming-desks/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.766291"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/72+Inch+Gaming+Desks-1/w=900,h=500,fit=pad,background=black"

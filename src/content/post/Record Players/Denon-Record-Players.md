@@ -6,6 +6,8 @@ slug: "/shop/best/denon-record-players/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.847856"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Denon+Record+Players-1/w=900,h=500,fit=pad,background=black"

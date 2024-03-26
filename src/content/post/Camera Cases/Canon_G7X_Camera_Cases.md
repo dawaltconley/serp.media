@@ -6,6 +6,8 @@ slug: "/shop/canon-g7x-camera-cases/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.822639"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Canon+G7X+Camera+Cases-1/w=900,h=500,fit=pad,background=black"

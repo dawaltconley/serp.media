@@ -6,6 +6,8 @@ slug: "/shop/best/l-shaped-gaming-desks-with-led-lights/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.781589"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/L-Shaped-Gaming-Desks-with-LED-Lights-1/w=900,h=500,fit=pad,background=black"

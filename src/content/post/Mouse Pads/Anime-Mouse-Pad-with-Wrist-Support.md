@@ -6,6 +6,8 @@ slug: "/shop/best/anime-mouse-pad-with-wrist-support/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.650001"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Anime-Mouse-Pad-with-Wrist-Support-1/w=900,h=500,fit=pad,background=black"

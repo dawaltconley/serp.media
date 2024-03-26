@@ -6,6 +6,8 @@ slug: "/shop/best/wireless-microphones-system/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.733404"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Wireless+Microphones+System-2/w=720,h=540,fit=pad,background=black"

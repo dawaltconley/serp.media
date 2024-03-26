@@ -6,6 +6,8 @@ slug: "/shop/spy-camera-phone-cases/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.814462"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Spy-Camera-Phone-Cases-1/w=900,h=500,fit=pad,background=black"

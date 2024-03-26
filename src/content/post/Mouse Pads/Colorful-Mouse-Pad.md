@@ -6,6 +6,8 @@ slug: "/shop/best/colorful-mouse-pad/"
 
 excerpt: ""
 
+category: "Posts"
+
 publishDate: "2024-03-18T17:47:42.658673"
 
 image: "https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Colorful-Mouse-Pad-1/w=900,h=500,fit=pad,background=black"
