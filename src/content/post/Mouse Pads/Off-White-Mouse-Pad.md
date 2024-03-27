@@ -2,11 +2,11 @@
 
 title: "Off-White Mouse Pad"
 
-slug: "/shop/best/off-white-mouse-pad/"
+slug: "/best/off-white-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.659853"
 

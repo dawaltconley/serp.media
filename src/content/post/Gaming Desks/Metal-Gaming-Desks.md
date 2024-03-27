@@ -2,11 +2,11 @@
 
 title: "Metal Gaming Desks"
 
-slug: "/shop/best/metal-gaming-desks/"
+slug: "/best/metal-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.781980"
 

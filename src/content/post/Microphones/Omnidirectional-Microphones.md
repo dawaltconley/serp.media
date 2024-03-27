@@ -2,11 +2,11 @@
 
 title: "Omnidirectional Microphones"
 
-slug: "/shop/best/omnidirectional-microphones/"
+slug: "/best/omnidirectional-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.729247"
 

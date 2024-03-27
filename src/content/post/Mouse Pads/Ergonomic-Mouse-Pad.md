@@ -2,11 +2,11 @@
 
 title: "Ergonomic Mouse Pad"
 
-slug: "/shop/best/ergonomic-mouse-pad/"
+slug: "/best/ergonomic-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.681362"
 

@@ -2,11 +2,11 @@
 
 title: "Phone Microphones"
 
-slug: "/shop/best/phone-microphones/"
+slug: "/best/phone-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.736686"
 

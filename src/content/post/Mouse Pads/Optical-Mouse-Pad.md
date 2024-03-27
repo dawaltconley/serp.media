@@ -2,11 +2,11 @@
 
 title: "Optical Mouse Pad"
 
-slug: "/shop/best/optical-mouse-pad/"
+slug: "/best/optical-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.665583"
 

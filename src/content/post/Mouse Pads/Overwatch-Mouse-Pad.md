@@ -2,11 +2,11 @@
 
 title: "Overwatch Mouse Pad"
 
-slug: "/shop/best/overwatch-mouse-pad/"
+slug: "/best/overwatch-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.680843"
 

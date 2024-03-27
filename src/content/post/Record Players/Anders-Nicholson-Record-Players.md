@@ -2,11 +2,11 @@
 
 title: "Anders Nicholson Record Players"
 
-slug: "/shop/best/anders-nicholson-record-players/"
+slug: "/best/anders-nicholson-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.840282"
 

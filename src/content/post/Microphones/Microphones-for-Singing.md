@@ -2,11 +2,11 @@
 
 title: "Microphones for Singing"
 
-slug: "/shop/best/microphones-for-singing/"
+slug: "/best/microphones-for-singing/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.716341"
 

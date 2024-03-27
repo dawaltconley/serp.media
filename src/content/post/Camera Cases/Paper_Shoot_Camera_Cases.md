@@ -2,11 +2,11 @@
 
 title: "Paper Shoot Camera Cases"
 
-slug: "/shop/paper-shoot-camera-cases/"
+slug: "/paper-shoot-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.811300"
 

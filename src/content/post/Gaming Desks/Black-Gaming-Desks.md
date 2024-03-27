@@ -2,11 +2,11 @@
 
 title: "Black Gaming Desks"
 
-slug: "/shop/best/black-gaming-desks/"
+slug: "/best/black-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.773664"
 

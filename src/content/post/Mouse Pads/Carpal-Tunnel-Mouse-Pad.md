@@ -2,11 +2,11 @@
 
 title: "Carpal Tunnel Mouse Pad"
 
-slug: "/shop/best/carpal-tunnel-mouse-pad/"
+slug: "/best/carpal-tunnel-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.692941"
 

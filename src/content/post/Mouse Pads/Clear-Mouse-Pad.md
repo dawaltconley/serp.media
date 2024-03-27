@@ -2,11 +2,11 @@
 
 title: "Clear Mouse Pad"
 
-slug: "/shop/best/clear-mouse-pad/"
+slug: "/best/clear-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.667548"
 

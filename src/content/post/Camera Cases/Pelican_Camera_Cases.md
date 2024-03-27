@@ -2,11 +2,11 @@
 
 title: "Pelican Camera Cases"
 
-slug: "/shop/pelican-camera-cases/"
+slug: "/pelican-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.812728"
 

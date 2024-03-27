@@ -2,11 +2,11 @@
 
 title: "Instax Mini 11 Camera Cases"
 
-slug: "/shop/instax-mini-11-camera-cases/"
+slug: "/instax-mini-11-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.799258"
 

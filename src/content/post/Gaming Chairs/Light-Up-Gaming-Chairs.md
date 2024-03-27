@@ -2,11 +2,11 @@
 
 title: "Light Up Gaming Chairs"
 
-slug: "/shop/best/light-up-gaming-chairs/"
+slug: "/best/light-up-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.745602"
 

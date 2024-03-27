@@ -2,11 +2,11 @@
 
 title: "Sony a6000 Camera Cases"
 
-slug: "/shop/sony-a6000-camera-cases/"
+slug: "/sony-a6000-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.806720"
 

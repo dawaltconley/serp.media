@@ -2,11 +2,11 @@
 
 title: "Pentax K1000 Camera Cases"
 
-slug: "/shop/pentax-k1000-camera-cases/"
+slug: "/pentax-k1000-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.827574"
 

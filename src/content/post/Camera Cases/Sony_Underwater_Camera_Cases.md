@@ -2,11 +2,11 @@
 
 title: "Sony Underwater Camera Cases"
 
-slug: "/shop/sony-underwater-camera-cases/"
+slug: "/sony-underwater-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.805023"
 

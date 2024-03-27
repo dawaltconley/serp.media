@@ -2,11 +2,11 @@
 
 title: "Sony Microphones"
 
-slug: "/shop/best/sony-microphones/"
+slug: "/best/sony-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.717130"
 

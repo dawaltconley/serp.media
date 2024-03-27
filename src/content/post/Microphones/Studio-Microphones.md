@@ -2,11 +2,11 @@
 
 title: "Studio Microphones"
 
-slug: "/shop/best/studio-microphones/"
+slug: "/best/studio-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.732631"
 

@@ -2,11 +2,11 @@
 
 title: "Mouse Pad with Wrist Support"
 
-slug: "/shop/best/mouse-pad-with-wrist-support/"
+slug: "/best/mouse-pad-with-wrist-support/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.668674"
 

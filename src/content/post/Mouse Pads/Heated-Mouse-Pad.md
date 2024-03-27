@@ -2,11 +2,11 @@
 
 title: "Heated Mouse Pad"
 
-slug: "/shop/best/heated-mouse-pad/"
+slug: "/best/heated-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.656252"
 

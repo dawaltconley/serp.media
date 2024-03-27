@@ -2,11 +2,11 @@
 
 title: "Mirrorless Camera Cases"
 
-slug: "/shop/mirrorless-camera-cases/"
+slug: "/mirrorless-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.814858"
 

@@ -2,11 +2,11 @@
 
 title: "Vitesse Gaming Desks"
 
-slug: "/shop/best/vitesse-gaming-desks/"
+slug: "/best/vitesse-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.774038"
 

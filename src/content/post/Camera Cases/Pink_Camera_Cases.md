@@ -2,11 +2,11 @@
 
 title: "Pink Camera Cases"
 
-slug: "/shop/pink-camera-cases/"
+slug: "/pink-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.824290"
 

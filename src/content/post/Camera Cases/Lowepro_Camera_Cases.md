@@ -2,11 +2,11 @@
 
 title: "Lowepro Camera Cases"
 
-slug: "/shop/lowepro-camera-cases/"
+slug: "/lowepro-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.816334"
 

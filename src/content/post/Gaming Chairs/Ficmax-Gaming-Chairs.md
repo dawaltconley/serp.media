@@ -2,11 +2,11 @@
 
 title: "Ficmax Gaming Chairs"
 
-slug: "/shop/best/ficmax-gaming-chairs/"
+slug: "/best/ficmax-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.753107"
 

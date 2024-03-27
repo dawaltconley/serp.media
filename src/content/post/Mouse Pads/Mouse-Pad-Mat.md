@@ -2,11 +2,11 @@
 
 title: "Mouse Pad Mat"
 
-slug: "/shop/best/mouse-pad-mat/"
+slug: "/best/mouse-pad-mat/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.666013"
 

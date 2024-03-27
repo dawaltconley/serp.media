@@ -2,11 +2,11 @@
 
 title: "McIntosh Record Players"
 
-slug: "/shop/best/mcintosh-record-players/"
+slug: "/best/mcintosh-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.835121"
 

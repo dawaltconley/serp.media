@@ -2,11 +2,11 @@
 
 title: "Elvira Mouse Pad"
 
-slug: "/shop/best/elvira-mouse-pad/"
+slug: "/best/elvira-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.680381"
 

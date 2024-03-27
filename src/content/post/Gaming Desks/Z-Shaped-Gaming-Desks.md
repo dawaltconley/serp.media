@@ -2,11 +2,11 @@
 
 title: "Z Shaped Gaming Desks"
 
-slug: "/shop/best/z-shaped-gaming-desks/"
+slug: "/best/z-shaped-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.769584"
 

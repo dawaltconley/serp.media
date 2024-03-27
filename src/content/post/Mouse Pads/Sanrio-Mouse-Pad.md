@@ -2,11 +2,11 @@
 
 title: "Sanrio Mouse Pad"
 
-slug: "/shop/best/sanrio-mouse-pad/"
+slug: "/best/sanrio-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.710111"
 

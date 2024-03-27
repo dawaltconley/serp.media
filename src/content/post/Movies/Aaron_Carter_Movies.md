@@ -4,7 +4,7 @@ title: "All 18 Aaron Carter Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-aaron-carter-movies-in-order/"
+slug: "/all-aaron-carter-movies-in-order/"
 
 excerpt: ""
 

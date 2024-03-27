@@ -2,11 +2,11 @@
 
 title: "Leather Camera Cases"
 
-slug: "/shop/leather-camera-cases/"
+slug: "/leather-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.810838"
 

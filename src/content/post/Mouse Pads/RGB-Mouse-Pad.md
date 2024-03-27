@@ -2,11 +2,11 @@
 
 title: "RGB Mouse Pad"
 
-slug: "/shop/best/rgb-mouse-pad/"
+slug: "/best/rgb-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.669225"
 

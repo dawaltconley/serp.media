@@ -2,11 +2,11 @@
 
 title: "Cheap Record Players"
 
-slug: "/shop/best/cheap-record-players/"
+slug: "/best/cheap-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.845349"
 

@@ -2,11 +2,11 @@
 
 title: "Dowinx Gaming Chairs"
 
-slug: "/shop/best/dowinx-gaming-chairs/"
+slug: "/best/dowinx-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.748679"
 

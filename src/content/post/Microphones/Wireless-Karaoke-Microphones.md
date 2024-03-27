@@ -2,11 +2,11 @@
 
 title: "Wireless Karaoke Microphones"
 
-slug: "/shop/best/wireless-karaoke-microphones/"
+slug: "/best/wireless-karaoke-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.727208"
 

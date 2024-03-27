@@ -2,11 +2,11 @@
 
 title: "Hard Camera Cases with Wheels"
 
-slug: "/shop/hard-camera-cases-with-wheels/"
+slug: "/hard-camera-cases-with-wheels/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.820579"
 

@@ -4,7 +4,7 @@ title: "All 46 Aaron Norris Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-aaron-norris-movies-in-order/"
+slug: "/all-aaron-norris-movies-in-order/"
 
 excerpt: ""
 

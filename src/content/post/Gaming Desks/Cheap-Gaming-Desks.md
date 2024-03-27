@@ -2,11 +2,11 @@
 
 title: "Cheap Gaming Desks"
 
-slug: "/shop/best/cheap-gaming-desks/"
+slug: "/best/cheap-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.771131"
 

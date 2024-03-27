@@ -2,11 +2,11 @@
 
 title: "Portable Gaming Desks"
 
-slug: "/shop/best/portable-gaming-desks/"
+slug: "/best/portable-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.776418"
 

@@ -2,11 +2,11 @@
 
 title: "Parabolic Microphones"
 
-slug: "/shop/best/parabolic-microphones/"
+slug: "/best/parabolic-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.727581"
 

@@ -2,11 +2,11 @@
 
 title: "Audio-Technica Microphones"
 
-slug: "/shop/best/audio-technica-microphones/"
+slug: "/best/audio-technica-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.738288"
 

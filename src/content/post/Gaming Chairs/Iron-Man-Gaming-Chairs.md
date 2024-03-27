@@ -2,11 +2,11 @@
 
 title: "Iron Man Gaming Chairs"
 
-slug: "/shop/best/iron-man-gaming-chairs/"
+slug: "/best/iron-man-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.762223"
 

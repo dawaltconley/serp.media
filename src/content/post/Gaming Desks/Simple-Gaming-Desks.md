@@ -2,11 +2,11 @@
 
 title: "Simple Gaming Desks"
 
-slug: "/shop/best/simple-gaming-desks/"
+slug: "/best/simple-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.791255"
 

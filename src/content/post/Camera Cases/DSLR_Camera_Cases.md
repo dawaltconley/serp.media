@@ -2,11 +2,11 @@
 
 title: "DSLR Camera Cases"
 
-slug: "/shop/dslr-camera-cases/"
+slug: "/dslr-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.827151"
 

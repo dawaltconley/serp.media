@@ -2,11 +2,11 @@
 
 title: "Polaroid Camera Cases"
 
-slug: "/shop/polaroid-camera-cases/"
+slug: "/polaroid-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.804034"
 

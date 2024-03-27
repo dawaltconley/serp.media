@@ -2,11 +2,11 @@
 
 title: "Desktop Microphones"
 
-slug: "/shop/best/desktop-microphones/"
+slug: "/best/desktop-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.742051"
 

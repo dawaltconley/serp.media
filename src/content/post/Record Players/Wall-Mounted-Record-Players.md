@@ -2,11 +2,11 @@
 
 title: "Wall Mounted Record Players"
 
-slug: "/shop/best/wall-mounted-record-players/"
+slug: "/best/wall-mounted-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.833357"
 

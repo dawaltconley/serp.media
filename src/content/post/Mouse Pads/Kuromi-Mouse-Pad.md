@@ -2,11 +2,11 @@
 
 title: "Kuromi Mouse Pad"
 
-slug: "/shop/best/kuromi-mouse-pad/"
+slug: "/best/kuromi-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.660668"
 

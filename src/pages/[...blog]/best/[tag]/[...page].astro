@@ -1,6 +1,7 @@
 ---
 import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
-import { blogTagRobots, getStaticPathsBlogTag } from '~/utils/blog';
+import { blogTagRobots, fetchPosts, blogPostsPerPage, mapByTag } from '~/utils/blog';
+import { mapBy } from '~/utils/utils';
 
 import Layout from '~/layouts/PageLayout.astro';
 import BlogList from '~/components/blog/List.astro';
@@ -10,7 +11,20 @@ import Pagination from '~/components/blog/Pagination.astro';
 export const prerender = true;
 
 export const getStaticPaths = (async ({ paginate }) => {
-  return await getStaticPathsBlogTag({ paginate });
+  const posts = await fetchPosts();
+  const byCategory = mapBy(posts, (p) => p.category);
+  const byCategoryTag = new Map([...byCategory].map(([cat, posts]) => [cat, mapByTag(posts)]));
+  return [...byCategoryTag].flatMap(([category, byTag]) =>
+    [...byTag.values()].flatMap(({ tag, posts }) =>
+      paginate(posts, {
+        params: { blog: category?.toLowerCase(), tag: tag.toLowerCase() },
+        props: { tag },
+        pageSize: blogPostsPerPage,
+      })
+    )
+  );
+  /* [...byCategory].map() */
+  /* return await getStaticPathsBlogTag({ paginate }); */
 }) satisfies GetStaticPaths;
 
 type Props = InferGetStaticPropsType<typeof getStaticPaths>;

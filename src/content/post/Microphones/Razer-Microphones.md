@@ -2,11 +2,11 @@
 
 title: "Razer Microphones"
 
-slug: "/shop/best/razer-microphones/"
+slug: "/best/razer-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.726437"
 

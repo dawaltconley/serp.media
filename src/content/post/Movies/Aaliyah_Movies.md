@@ -4,7 +4,7 @@ title: "All 34 Aaliyah Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-aaliyah-movies-in-order/"
+slug: "/all-aaliyah-movies-in-order/"
 
 excerpt: ""
 

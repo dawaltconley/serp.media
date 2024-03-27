@@ -2,11 +2,11 @@
 
 title: "Electret Microphones"
 
-slug: "/shop/best/electret-microphones/"
+slug: "/best/electret-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.723800"
 

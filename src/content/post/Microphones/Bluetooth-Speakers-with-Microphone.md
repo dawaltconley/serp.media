@@ -2,11 +2,11 @@
 
 title: "Bluetooth Speakers with Microphone"
 
-slug: "/shop/best/bluetooth-speakers-with-microphone/"
+slug: "/best/bluetooth-speakers-with-microphone/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.716745"
 

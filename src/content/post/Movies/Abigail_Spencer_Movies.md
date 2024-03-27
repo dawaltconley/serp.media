@@ -4,7 +4,7 @@ title: "All 20 Abigail Spencer Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-abigail-spencer-movies-in-order/"
+slug: "/all-abigail-spencer-movies-in-order/"
 
 excerpt: ""
 

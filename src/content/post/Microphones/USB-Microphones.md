@@ -2,11 +2,11 @@
 
 title: "USB Microphones"
 
-slug: "/shop/best/usb-microphones/"
+slug: "/best/usb-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.727934"
 

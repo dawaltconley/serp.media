@@ -2,11 +2,11 @@
 
 title: "Gaming Desks With LED Lights"
 
-slug: "/shop/best/gaming-desks-with-led-lights/"
+slug: "/best/gaming-desks-with-led-lights/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.783348"
 

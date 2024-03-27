@@ -2,11 +2,11 @@
 
 title: "Dark Souls Mouse Pad"
 
-slug: "/shop/best/dark-souls-mouse-pad/"
+slug: "/best/dark-souls-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.666764"
 

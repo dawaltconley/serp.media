@@ -2,11 +2,11 @@
 
 title: "Orbit Record Players"
 
-slug: "/shop/best/orbit-record-players/"
+slug: "/best/orbit-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.854184"
 

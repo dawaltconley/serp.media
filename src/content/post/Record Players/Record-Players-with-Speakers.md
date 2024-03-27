@@ -2,11 +2,11 @@
 
 title: "Record Players with Speakers"
 
-slug: "/shop/best/record-players-with-speakers/"
+slug: "/best/record-players-with-speakers/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.841114"
 

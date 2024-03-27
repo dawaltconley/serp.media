@@ -2,11 +2,11 @@
 
 title: "Harley Davidson Mouse Pad"
 
-slug: "/shop/best/harley-davidson-mouse-pad/"
+slug: "/best/harley-davidson-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.676886"
 

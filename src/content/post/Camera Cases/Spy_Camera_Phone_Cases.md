@@ -2,11 +2,11 @@
 
 title: "Spy Camera Phone Cases"
 
-slug: "/shop/spy-camera-phone-cases/"
+slug: "/spy-camera-phone-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.814462"
 

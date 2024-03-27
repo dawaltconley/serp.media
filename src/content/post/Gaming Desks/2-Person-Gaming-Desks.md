@@ -2,11 +2,11 @@
 
 title: "2 Person Gaming Desks"
 
-slug: "/shop/best/2-person-gaming-desks/"
+slug: "/best/2-person-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.772514"
 

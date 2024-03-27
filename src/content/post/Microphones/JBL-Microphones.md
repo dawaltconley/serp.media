@@ -2,11 +2,11 @@
 
 title: "JBL Microphones"
 
-slug: "/shop/best/jbl-microphones/"
+slug: "/best/jbl-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.715181"
 

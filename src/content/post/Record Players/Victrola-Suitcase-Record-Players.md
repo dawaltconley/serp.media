@@ -2,11 +2,11 @@
 
 title: "Victrola Suitcase Record Players"
 
-slug: "/shop/best/victrola-suitcase-record-players/"
+slug: "/best/victrola-suitcase-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.830588"
 

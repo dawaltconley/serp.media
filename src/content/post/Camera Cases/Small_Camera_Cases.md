@@ -2,11 +2,11 @@
 
 title: "Small Camera Cases"
 
-slug: "/shop/small-camera-cases/"
+slug: "/small-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.825530"
 

@@ -2,11 +2,11 @@
 
 title: "Microphones for Recording Vocals"
 
-slug: "/shop/best/microphones-for-recording-vocals/"
+slug: "/best/microphones-for-recording-vocals/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.728380"
 

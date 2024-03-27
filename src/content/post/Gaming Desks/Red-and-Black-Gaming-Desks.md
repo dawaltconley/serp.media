@@ -2,11 +2,11 @@
 
 title: "Red and Black Gaming Desks"
 
-slug: "/shop/best/red-and-black-gaming-desks/"
+slug: "/best/red-and-black-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.780454"
 

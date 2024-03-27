@@ -2,11 +2,11 @@
 
 title: "Gaming Desks With Hutch"
 
-slug: "/shop/best/gaming-desks-with-hutch/"
+slug: "/best/gaming-desks-with-hutch/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.777938"
 

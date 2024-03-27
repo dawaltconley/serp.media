@@ -2,11 +2,11 @@
 
 title: "Fujifilm Camera Cases"
 
-slug: "/shop/fujifilm-camera-cases/"
+slug: "/fujifilm-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.823858"
 

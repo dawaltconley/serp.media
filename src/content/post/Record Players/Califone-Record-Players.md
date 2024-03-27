@@ -2,11 +2,11 @@
 
 title: "Califone Record Players"
 
-slug: "/shop/best/califone-record-players/"
+slug: "/best/califone-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.832258"
 

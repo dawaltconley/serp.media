@@ -2,11 +2,11 @@
 
 title: "Polaroid Go Camera Cases"
 
-slug: "/shop/polaroid-go-camera-cases/"
+slug: "/polaroid-go-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.813591"
 

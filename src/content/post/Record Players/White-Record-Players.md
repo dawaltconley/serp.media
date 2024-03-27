@@ -2,11 +2,11 @@
 
 title: "White Record Players"
 
-slug: "/shop/best/white-record-players/"
+slug: "/best/white-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.836910"
 

@@ -2,11 +2,11 @@
 
 title: "Barolli Gaming Desks"
 
-slug: "/shop/best/barolli-gaming-desks/"
+slug: "/best/barolli-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.768119"
 

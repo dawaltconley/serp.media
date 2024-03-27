@@ -2,11 +2,11 @@
 
 title: "Orange Gaming Chairs"
 
-slug: "/shop/best/orange-gaming-chairs/"
+slug: "/best/orange-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.761856"
 

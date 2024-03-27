@@ -2,11 +2,11 @@
 
 title: "Trail Camera Cases"
 
-slug: "/shop/trail-camera-cases/"
+slug: "/trail-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.823456"
 

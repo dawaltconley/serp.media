@@ -2,11 +2,11 @@
 
 title: "Green Record Players"
 
-slug: "/shop/best/green-record-players/"
+slug: "/best/green-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.831115"
 

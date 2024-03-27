@@ -2,11 +2,11 @@
 
 title: "Sealife Camera Cases"
 
-slug: "/shop/sealife-camera-cases/"
+slug: "/sealife-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.829343"
 

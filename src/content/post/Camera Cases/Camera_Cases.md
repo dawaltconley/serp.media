@@ -2,11 +2,11 @@
 
 title: "Camera Cases"
 
-slug: "/shop/camera-cases/"
+slug: "/camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.798417"
 

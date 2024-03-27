@@ -2,11 +2,11 @@
 
 title: "Zenith Record Players"
 
-slug: "/shop/best/zenith-record-players/"
+slug: "/best/zenith-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.850535"
 

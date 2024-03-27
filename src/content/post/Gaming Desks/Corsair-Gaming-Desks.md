@@ -2,11 +2,11 @@
 
 title: "Corsair Gaming Desks"
 
-slug: "/shop/best/corsair-gaming-desks/"
+slug: "/best/corsair-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.778636"
 

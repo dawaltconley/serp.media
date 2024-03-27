@@ -2,11 +2,11 @@
 
 title: "PowerPlay Mouse Pad"
 
-slug: "/shop/best/powerplay-mouse-pad/"
+slug: "/best/powerplay-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.697819"
 

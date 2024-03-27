@@ -2,11 +2,11 @@
 
 title: "Snowball Microphones"
 
-slug: "/shop/best/snowball-microphones/"
+slug: "/best/snowball-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.725750"
 

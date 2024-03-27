@@ -4,7 +4,7 @@ title: "All 54 Adam Baldwin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-adam-baldwin-movies-in-order/"
+slug: "/all-adam-baldwin-movies-in-order/"
 
 excerpt: ""
 

@@ -2,11 +2,11 @@
 
 title: "DSLR Microphones"
 
-slug: "/shop/best/dslr-microphones/"
+slug: "/best/dslr-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.729595"
 

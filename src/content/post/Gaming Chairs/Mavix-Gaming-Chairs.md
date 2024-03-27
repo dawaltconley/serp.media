@@ -2,11 +2,11 @@
 
 title: "Mavix Gaming Chairs"
 
-slug: "/shop/best/mavix-gaming-chairs/"
+slug: "/best/mavix-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.760442"
 

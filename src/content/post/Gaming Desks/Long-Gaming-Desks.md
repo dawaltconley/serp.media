@@ -2,11 +2,11 @@
 
 title: "Long Gaming Desks"
 
-slug: "/shop/best/long-gaming-desks/"
+slug: "/best/long-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.765101"
 

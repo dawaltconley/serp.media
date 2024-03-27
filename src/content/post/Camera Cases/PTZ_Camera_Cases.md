@@ -2,11 +2,11 @@
 
 title: "PTZ Camera Cases"
 
-slug: "/shop/ptz-camera-cases/"
+slug: "/ptz-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.808259"
 

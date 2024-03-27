@@ -2,11 +2,11 @@
 
 title: "Razer Gaming Chairs"
 
-slug: "/shop/best/razer-gaming-chairs/"
+slug: "/best/razer-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.761488"
 

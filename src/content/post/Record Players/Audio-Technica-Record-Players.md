@@ -2,11 +2,11 @@
 
 title: "Audio-Technica Record Players"
 
-slug: "/shop/best/audio-technica-record-players/"
+slug: "/best/audio-technica-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.833709"
 

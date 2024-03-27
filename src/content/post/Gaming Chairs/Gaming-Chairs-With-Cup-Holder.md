@@ -2,11 +2,11 @@
 
 title: "Gaming Chairs With Cup Holder"
 
-slug: "/shop/best/gaming-chairs-with-cup-holder/"
+slug: "/best/gaming-chairs-with-cup-holder/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.760805"
 

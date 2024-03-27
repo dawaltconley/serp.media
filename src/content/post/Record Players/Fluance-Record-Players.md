@@ -2,11 +2,11 @@
 
 title: "Fluance Record Players"
 
-slug: "/shop/best/fluance-record-players/"
+slug: "/best/fluance-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.840698"
 

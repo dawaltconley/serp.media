@@ -2,11 +2,11 @@
 
 title: "Panasonic Lumix Camera Cases"
 
-slug: "/shop/panasonic-lumix-camera-cases/"
+slug: "/panasonic-lumix-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.798808"
 

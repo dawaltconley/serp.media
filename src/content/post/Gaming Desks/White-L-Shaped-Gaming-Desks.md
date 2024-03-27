@@ -2,11 +2,11 @@
 
 title: "White L Shaped Gaming Desks"
 
-slug: "/shop/best/white-l-shaped-gaming-desks/"
+slug: "/best/white-l-shaped-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.791596"
 

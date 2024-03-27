@@ -2,11 +2,11 @@
 
 title: "L Shaped Mouse Pad"
 
-slug: "/shop/best/l-shaped-mouse-pad/"
+slug: "/best/l-shaped-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.706714"
 

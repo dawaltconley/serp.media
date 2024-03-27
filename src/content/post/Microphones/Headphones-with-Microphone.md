@@ -2,11 +2,11 @@
 
 title: "Headphones with Microphone"
 
-slug: "/shop/best/headphones-with-microphone/"
+slug: "/best/headphones-with-microphone/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.739739"
 

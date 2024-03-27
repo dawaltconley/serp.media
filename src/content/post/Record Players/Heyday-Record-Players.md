@@ -2,11 +2,11 @@
 
 title: "Heyday Record Players"
 
-slug: "/shop/best/heyday-record-players/"
+slug: "/best/heyday-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.852730"
 

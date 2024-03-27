@@ -2,11 +2,11 @@
 
 title: "Captain America Gaming Chairs"
 
-slug: "/shop/best/captain-america-gaming-chairs/"
+slug: "/best/captain-america-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.762590"
 

@@ -2,11 +2,11 @@
 
 title: "Microphones Cables"
 
-slug: "/shop/best/microphones-cables/"
+slug: "/best/microphones-cables/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.725416"
 

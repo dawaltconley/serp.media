@@ -2,11 +2,11 @@
 
 title: "Sonos Record Players"
 
-slug: "/shop/best/sonos-record-players/"
+slug: "/best/sonos-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.846514"
 

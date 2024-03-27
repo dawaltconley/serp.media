@@ -2,11 +2,11 @@
 
 title: "Wireless Microphones with Speaker"
 
-slug: "/shop/best/wireless-microphones-with-speaker/"
+slug: "/best/wireless-microphones-with-speaker/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.729967"
 

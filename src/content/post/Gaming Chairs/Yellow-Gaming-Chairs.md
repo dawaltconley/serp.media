@@ -2,11 +2,11 @@
 
 title: "Yellow Gaming Chairs"
 
-slug: "/shop/best/yellow-gaming-chairs/"
+slug: "/best/yellow-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.742842"
 

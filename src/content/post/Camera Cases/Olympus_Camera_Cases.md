@@ -2,11 +2,11 @@
 
 title: "Olympus Camera Cases"
 
-slug: "/shop/olympus-camera-cases/"
+slug: "/olympus-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.809573"
 

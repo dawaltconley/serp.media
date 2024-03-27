@@ -2,11 +2,11 @@
 
 title: "Bluetooth Microphones for PC"
 
-slug: "/shop/best/bluetooth-microphones-for-pc/"
+slug: "/best/bluetooth-microphones-for-pc/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.713388"
 

@@ -2,11 +2,11 @@
 
 title: "Floor Gaming Chairs"
 
-slug: "/shop/best/floor-gaming-chairs/"
+slug: "/best/floor-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.763298"
 

@@ -2,11 +2,11 @@
 
 title: "Small Microphones"
 
-slug: "/shop/best/small-microphones/"
+slug: "/best/small-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.723027"
 

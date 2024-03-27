@@ -2,11 +2,11 @@
 
 title: "USB Headset with Microphones"
 
-slug: "/shop/best/usb-headset-with-microphones/"
+slug: "/best/usb-headset-with-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.732227"
 

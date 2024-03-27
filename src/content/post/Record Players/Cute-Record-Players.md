@@ -2,11 +2,11 @@
 
 title: "Cute Record Players"
 
-slug: "/shop/best/cute-record-players/"
+slug: "/best/cute-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.839419"
 

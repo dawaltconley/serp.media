@@ -2,11 +2,11 @@
 
 title: "Shure Wireless Microphones"
 
-slug: "/shop/best/shure-wireless-microphones/"
+slug: "/best/shure-wireless-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.713794"
 

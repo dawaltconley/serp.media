@@ -2,11 +2,11 @@
 
 title: "Blue Gaming Desks"
 
-slug: "/shop/best/blue-gaming-desks/"
+slug: "/best/blue-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.787040"
 

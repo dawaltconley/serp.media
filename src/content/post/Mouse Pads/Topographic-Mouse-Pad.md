@@ -2,11 +2,11 @@
 
 title: "Topographic Mouse Pad"
 
-slug: "/shop/best/topographic-mouse-pad/"
+slug: "/best/topographic-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.696406"
 

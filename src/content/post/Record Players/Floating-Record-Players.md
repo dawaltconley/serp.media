@@ -2,11 +2,11 @@
 
 title: "Floating Record Players"
 
-slug: "/shop/best/floating-record-players/"
+slug: "/best/floating-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.835489"
 

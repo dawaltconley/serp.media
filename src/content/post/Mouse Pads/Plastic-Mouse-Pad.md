@@ -2,11 +2,11 @@
 
 title: "Plastic Mouse Pad"
 
-slug: "/shop/best/plastic-mouse-pad/"
+slug: "/best/plastic-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.687983"
 

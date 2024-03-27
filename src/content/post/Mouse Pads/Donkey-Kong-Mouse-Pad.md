@@ -2,11 +2,11 @@
 
 title: "Donkey Kong Mouse Pad"
 
-slug: "/shop/best/donkey-kong-mouse-pad/"
+slug: "/best/donkey-kong-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.702909"
 

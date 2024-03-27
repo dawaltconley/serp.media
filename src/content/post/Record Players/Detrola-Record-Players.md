@@ -2,11 +2,11 @@
 
 title: "Detrola Record Players"
 
-slug: "/shop/best/detrola-record-players/"
+slug: "/best/detrola-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.842027"
 

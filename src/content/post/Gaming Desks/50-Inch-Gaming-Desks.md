@@ -2,11 +2,11 @@
 
 title: "50 Inch Gaming Desks"
 
-slug: "/shop/best/50-inch-gaming-desks/"
+slug: "/best/50-inch-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.782331"
 

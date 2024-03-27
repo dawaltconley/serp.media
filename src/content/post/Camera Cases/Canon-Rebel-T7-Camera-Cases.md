@@ -2,11 +2,11 @@
 
 title: "Canon Rebel T7 Camera Cases"
 
-slug: "/shop/best/canon-rebel-t7-camera-cases/"
+slug: "/best/canon-rebel-t7-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.797236"
 

@@ -2,11 +2,11 @@
 
 title: "Stand Up Gaming Desks"
 
-slug: "/shop/best/stand-up-gaming-desks/"
+slug: "/best/stand-up-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.783012"
 

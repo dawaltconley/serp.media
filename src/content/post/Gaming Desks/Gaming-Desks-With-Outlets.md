@@ -2,11 +2,11 @@
 
 title: "Gaming Desks With Outlets"
 
-slug: "/shop/best/gaming-desks-with-outlets/"
+slug: "/best/gaming-desks-with-outlets/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.778981"
 

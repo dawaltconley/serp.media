@@ -2,11 +2,11 @@
 
 title: "Polaroid 600 Camera Cases"
 
-slug: "/shop/polaroid-600-camera-cases/"
+slug: "/polaroid-600-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.802757"
 

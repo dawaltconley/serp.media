@@ -2,11 +2,11 @@
 
 title: "Vibrating Mouse Pad"
 
-slug: "/shop/best/vibrating-mouse-pad/"
+slug: "/best/vibrating-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.688815"
 

@@ -2,11 +2,11 @@
 
 title: "Purple Mouse Pad"
 
-slug: "/shop/best/purple-mouse-pad/"
+slug: "/best/purple-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.665198"
 

@@ -2,11 +2,11 @@
 
 title: "Joseph Joestar Mouse Pad"
 
-slug: "/shop/best/joseph-joestar-mouse-pad/"
+slug: "/best/joseph-joestar-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.683351"
 

@@ -2,11 +2,11 @@
 
 title: "Bluetooth Microphones for Car"
 
-slug: "/shop/best/bluetooth-microphones-for-car/"
+slug: "/best/bluetooth-microphones-for-car/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.719776"
 

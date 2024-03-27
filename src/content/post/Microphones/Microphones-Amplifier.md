@@ -2,11 +2,11 @@
 
 title: "Microphones Amplifier"
 
-slug: "/shop/best/microphones-amplifier/"
+slug: "/best/microphones-amplifier/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.740465"
 

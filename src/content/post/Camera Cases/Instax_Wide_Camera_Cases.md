@@ -2,11 +2,11 @@
 
 title: "Instax Wide Camera Cases"
 
-slug: "/shop/instax-wide-camera-cases/"
+slug: "/instax-wide-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.795223"
 

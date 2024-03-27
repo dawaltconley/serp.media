@@ -2,11 +2,11 @@
 
 title: "Computer Mouse Pad"
 
-slug: "/shop/best/computer-mouse-pad/"
+slug: "/best/computer-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.663228"
 

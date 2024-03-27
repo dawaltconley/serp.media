@@ -2,11 +2,11 @@
 
 title: "Microphones for Vocals"
 
-slug: "/shop/best/microphones-for-vocals/"
+slug: "/best/microphones-for-vocals/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.721033"
 

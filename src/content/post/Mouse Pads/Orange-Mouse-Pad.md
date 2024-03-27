@@ -2,11 +2,11 @@
 
 title: "Orange Mouse Pad"
 
-slug: "/shop/best/orange-mouse-pad/"
+slug: "/best/orange-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.694593"
 

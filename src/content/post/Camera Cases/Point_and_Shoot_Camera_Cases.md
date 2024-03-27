@@ -2,11 +2,11 @@
 
 title: "Point and Shoot Camera Cases"
 
-slug: "/shop/point-and-shoot-camera-cases/"
+slug: "/point-and-shoot-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.799819"
 

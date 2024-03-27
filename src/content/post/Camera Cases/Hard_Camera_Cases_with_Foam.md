@@ -2,11 +2,11 @@
 
 title: "Hard Camera Cases with Foam"
 
-slug: "/shop/hard-camera-cases-with-foam/"
+slug: "/hard-camera-cases-with-foam/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.821358"
 

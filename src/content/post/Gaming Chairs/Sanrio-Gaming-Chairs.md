@@ -2,11 +2,11 @@
 
 title: "Sanrio Gaming Chairs"
 
-slug: "/shop/best/sanrio-gaming-chairs/"
+slug: "/best/sanrio-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.749078"
 

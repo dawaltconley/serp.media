@@ -4,7 +4,7 @@ title: "All 16 Aaron Himelstein Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-aaron-himelstein-movies-in-order/"
+slug: "/all-aaron-himelstein-movies-in-order/"
 
 excerpt: ""
 

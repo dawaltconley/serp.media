@@ -2,11 +2,11 @@
 
 title: "Gaming Desks with Keyboard Tray"
 
-slug: "/shop/best/gaming-desks-with-keyboard-tray/"
+slug: "/best/gaming-desks-with-keyboard-tray/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.779728"
 

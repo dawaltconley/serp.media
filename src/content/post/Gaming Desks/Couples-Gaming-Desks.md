@@ -2,11 +2,11 @@
 
 title: "Couples Gaming Desks"
 
-slug: "/shop/best/couples-gaming-desks/"
+slug: "/best/couples-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.768821"
 

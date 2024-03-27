@@ -2,11 +2,11 @@
 
 title: "Microphones for Streaming"
 
-slug: "/shop/best/microphones-for-streaming/"
+slug: "/best/microphones-for-streaming/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.735972"
 

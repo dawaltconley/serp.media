@@ -2,11 +2,11 @@
 
 title: "Grey Gaming Desks"
 
-slug: "/shop/best/grey-gaming-desks/"
+slug: "/best/grey-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.780798"
 

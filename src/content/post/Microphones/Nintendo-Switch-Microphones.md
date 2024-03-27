@@ -2,11 +2,11 @@
 
 title: "Nintendo Switch Microphones"
 
-slug: "/shop/best/nintendo-switch-microphones/"
+slug: "/best/nintendo-switch-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.718865"
 

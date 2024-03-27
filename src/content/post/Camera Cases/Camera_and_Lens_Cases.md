@@ -2,11 +2,11 @@
 
 title: "Camera and Lens Cases"
 
-slug: "/shop/camera-and-lens-cases/"
+slug: "/camera-and-lens-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.822193"
 

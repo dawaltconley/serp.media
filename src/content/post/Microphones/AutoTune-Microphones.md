@@ -2,11 +2,11 @@
 
 title: "AutoTune Microphones"
 
-slug: "/shop/best/autotune-microphones/"
+slug: "/best/autotune-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.734140"
 

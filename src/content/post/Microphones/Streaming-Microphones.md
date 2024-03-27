@@ -2,11 +2,11 @@
 
 title: "Streaming Microphones"
 
-slug: "/shop/best/streaming-microphones/"
+slug: "/best/streaming-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.730336"
 

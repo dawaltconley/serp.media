@@ -2,11 +2,11 @@
 
 title: "Mesh Gaming Chairs"
 
-slug: "/shop/best/mesh-gaming-chairs/"
+slug: "/best/mesh-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.761151"
 

@@ -2,11 +2,11 @@
 
 title: "Respawn Gaming Desks"
 
-slug: "/shop/best/respawn-gaming-desks/"
+slug: "/best/respawn-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.774713"
 

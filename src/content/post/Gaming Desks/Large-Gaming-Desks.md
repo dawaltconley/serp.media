@@ -2,11 +2,11 @@
 
 title: "Large Gaming Desks"
 
-slug: "/shop/best/large-gaming-desks/"
+slug: "/best/large-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.785025"
 

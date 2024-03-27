@@ -2,11 +2,11 @@
 
 title: "Logitech Charging Mouse Pad"
 
-slug: "/shop/best/logitech-charging-mouse-pad/"
+slug: "/best/logitech-charging-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.679274"
 

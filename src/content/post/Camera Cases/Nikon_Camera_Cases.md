@@ -2,11 +2,11 @@
 
 title: "Nikon Camera Cases"
 
-slug: "/shop/nikon-camera-cases/"
+slug: "/nikon-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.813988"
 

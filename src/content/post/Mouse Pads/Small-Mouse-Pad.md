@@ -2,11 +2,11 @@
 
 title: "Small Mouse Pad"
 
-slug: "/shop/best/small-mouse-pad/"
+slug: "/best/small-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.663667"
 

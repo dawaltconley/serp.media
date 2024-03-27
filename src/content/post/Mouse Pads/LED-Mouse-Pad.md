@@ -2,11 +2,11 @@
 
 title: "LED Mouse Pad"
 
-slug: "/shop/best/led-mouse-pad/"
+slug: "/best/led-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.662798"
 

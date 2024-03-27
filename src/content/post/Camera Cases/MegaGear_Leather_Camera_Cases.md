@@ -2,11 +2,11 @@
 
 title: "MegaGear Leather Camera Cases"
 
-slug: "/shop/megagear-leather-camera-cases/"
+slug: "/megagear-leather-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.801185"
 

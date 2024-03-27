@@ -2,11 +2,11 @@
 
 title: "Canon G7X Camera Cases"
 
-slug: "/shop/canon-g7x-camera-cases/"
+slug: "/canon-g7x-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.822639"
 

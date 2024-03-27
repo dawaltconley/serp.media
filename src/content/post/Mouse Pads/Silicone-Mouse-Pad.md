@@ -2,11 +2,11 @@
 
 title: "Silicone Mouse Pad"
 
-slug: "/shop/best/silicone-mouse-pad/"
+slug: "/best/silicone-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.682371"
 

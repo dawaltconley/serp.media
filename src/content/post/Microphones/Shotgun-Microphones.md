@@ -2,11 +2,11 @@
 
 title: "Shotgun Microphones"
 
-slug: "/shop/best/shotgun-microphones/"
+slug: "/best/shotgun-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.723425"
 

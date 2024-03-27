@@ -2,11 +2,11 @@
 
 title: "Extra Large Mouse Pad"
 
-slug: "/shop/best/extra-large-mouse-pad/"
+slug: "/best/extra-large-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.709673"
 

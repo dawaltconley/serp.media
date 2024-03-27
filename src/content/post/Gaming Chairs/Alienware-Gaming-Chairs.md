@@ -2,11 +2,11 @@
 
 title: "Alienware Gaming Chairs"
 
-slug: "/shop/best/alienware-gaming-chairs/"
+slug: "/best/alienware-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.752240"
 

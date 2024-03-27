@@ -2,11 +2,11 @@
 
 title: "Instax 9 Camera Case"
 
-slug: "/shop/instax-9-camera-case/"
+slug: "/instax-9-camera-case/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.801996"
 

@@ -2,11 +2,11 @@
 
 title: "Record Players with CD Players"
 
-slug: "/shop/best/record-players-with-cd-players/"
+slug: "/best/record-players-with-cd-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.846119"
 

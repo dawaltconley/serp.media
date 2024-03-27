@@ -2,11 +2,11 @@
 
 title: "Soft Camera Cases"
 
-slug: "/shop/soft-camera-cases/"
+slug: "/soft-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.819058"
 

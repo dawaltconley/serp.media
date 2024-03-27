@@ -2,11 +2,11 @@
 
 title: "Instax Camera Cases"
 
-slug: "/shop/instax-camera-cases/"
+slug: "/instax-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.826752"
 

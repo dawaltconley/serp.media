@@ -4,7 +4,7 @@ title: "All 37 Abigail Breslin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-abigail-breslin-movies-in-order/"
+slug: "/all-abigail-breslin-movies-in-order/"
 
 excerpt: ""
 

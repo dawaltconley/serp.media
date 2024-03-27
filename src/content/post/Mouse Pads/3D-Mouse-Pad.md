@@ -2,11 +2,11 @@
 
 title: "3D Mouse Pad"
 
-slug: "/shop/best/3d-mouse-pad/"
+slug: "/best/3d-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.673332"
 

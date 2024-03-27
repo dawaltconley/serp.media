@@ -2,11 +2,11 @@
 
 title: "Record Players"
 
-slug: "/shop/best/record-players/"
+slug: "/best/record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.847522"
 

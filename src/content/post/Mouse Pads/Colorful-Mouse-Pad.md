@@ -2,11 +2,11 @@
 
 title: "Colorful Mouse Pad"
 
-slug: "/shop/best/colorful-mouse-pad/"
+slug: "/best/colorful-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.658673"
 

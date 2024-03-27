@@ -2,11 +2,11 @@
 
 title: "Laptop Microphones"
 
-slug: "/shop/best/laptop-microphones/"
+slug: "/best/laptop-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.737913"
 

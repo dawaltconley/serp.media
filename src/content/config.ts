@@ -6,7 +6,7 @@ import { z, defineCollection, getCollection } from 'astro:content';
  * IMPORTANT! The name of these categories is used when generating routes.
  * Renaming a category will change all post permalinks in that category.
  */
-const postCategories = z.enum(['Posts', 'Movies']);
+const postCategories = z.enum(['Posts', 'Shop', 'Movies']);
 export type Category = z.infer<typeof postCategories>;
 
 const metadata = z

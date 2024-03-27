@@ -2,11 +2,11 @@
 
 title: "Hello Kitty Gaming Chairs"
 
-slug: "/shop/best/hello-kitty-gaming-chairs/"
+slug: "/best/hello-kitty-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.746329"
 

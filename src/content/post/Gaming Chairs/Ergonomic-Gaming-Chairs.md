@@ -2,11 +2,11 @@
 
 title: "Ergonomic Gaming Chairs"
 
-slug: "/shop/best/ergonomic-gaming-chairs/"
+slug: "/best/ergonomic-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.751775"
 

@@ -2,11 +2,11 @@
 
 title: "Recording Microphones"
 
-slug: "/shop/best/recording-microphones/"
+slug: "/best/recording-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.740101"
 

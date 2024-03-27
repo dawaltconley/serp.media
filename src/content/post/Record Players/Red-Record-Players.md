@@ -2,11 +2,11 @@
 
 title: "Red Record Players"
 
-slug: "/shop/best/red-record-players/"
+slug: "/best/red-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.845716"
 

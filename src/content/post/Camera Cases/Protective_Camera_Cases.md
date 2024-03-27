@@ -2,11 +2,11 @@
 
 title: "Protective Camera Cases"
 
-slug: "/shop/protective-camera-cases/"
+slug: "/protective-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.802387"
 

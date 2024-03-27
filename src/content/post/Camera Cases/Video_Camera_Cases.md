@@ -2,11 +2,11 @@
 
 title: "Video Camera Cases"
 
-slug: "/shop/video-camera-cases/"
+slug: "/video-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.809041"
 

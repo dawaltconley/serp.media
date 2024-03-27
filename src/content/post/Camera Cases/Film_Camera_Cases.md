@@ -2,11 +2,11 @@
 
 title: "Film Camera Cases"
 
-slug: "/shop/film-camera-cases/"
+slug: "/film-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.828903"
 

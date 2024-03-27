@@ -2,11 +2,11 @@
 
 title: "Razer Gaming Desks"
 
-slug: "/shop/best/razer-gaming-desks/"
+slug: "/best/razer-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.773298"
 

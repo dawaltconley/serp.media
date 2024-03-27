@@ -2,11 +2,11 @@
 
 title: "Foldable Gaming Desks"
 
-slug: "/shop/best/foldable-gaming-desks/"
+slug: "/best/foldable-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.784312"
 

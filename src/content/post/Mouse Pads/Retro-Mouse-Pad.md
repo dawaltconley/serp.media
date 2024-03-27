@@ -2,11 +2,11 @@
 
 title: "Retro Mouse Pad"
 
-slug: "/shop/best/retro-mouse-pad/"
+slug: "/best/retro-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.702519"
 

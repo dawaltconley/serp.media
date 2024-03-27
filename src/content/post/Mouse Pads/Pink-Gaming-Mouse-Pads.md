@@ -2,11 +2,11 @@
 
 title: "Pink Gaming Mouse Pads"
 
-slug: "/shop/best/pink-gaming-mouse-pads/"
+slug: "/best/pink-gaming-mouse-pads/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.661097"
 

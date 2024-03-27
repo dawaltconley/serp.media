@@ -2,11 +2,11 @@
 
 title: "Blue Yeti Microphones"
 
-slug: "/shop/best/blue-yeti-microphones/"
+slug: "/best/blue-yeti-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.738665"
 

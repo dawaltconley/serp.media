@@ -2,11 +2,11 @@
 
 title: "Small Canon Camera Cases"
 
-slug: "/shop/small-canon-camera-cases/"
+slug: "/small-canon-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.815947"
 

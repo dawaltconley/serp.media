@@ -2,11 +2,11 @@
 
 title: "FIFINE Microphones"
 
-slug: "/shop/best/fifine-microphones/"
+slug: "/best/fifine-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.715954"
 

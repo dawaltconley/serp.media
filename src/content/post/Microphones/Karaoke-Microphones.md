@@ -2,11 +2,11 @@
 
 title: "Karaoke Microphones"
 
-slug: "/shop/best/karaoke-microphones/"
+slug: "/best/karaoke-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.736336"
 

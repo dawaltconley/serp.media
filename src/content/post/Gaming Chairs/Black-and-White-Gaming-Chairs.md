@@ -2,11 +2,11 @@
 
 title: "Black and White Gaming Chairs"
 
-slug: "/shop/best/black-and-white-gaming-chairs/"
+slug: "/best/black-and-white-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.758212"
 

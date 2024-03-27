@@ -2,11 +2,11 @@
 
 title: "Seven Warrior Gaming Desks"
 
-slug: "/shop/best/seven-warrior-gaming-desks/"
+slug: "/best/seven-warrior-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.783676"
 

@@ -2,11 +2,11 @@
 
 title: "Corner Gaming Desks"
 
-slug: "/shop/best/corner-gaming-desks/"
+slug: "/best/corner-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.782677"
 

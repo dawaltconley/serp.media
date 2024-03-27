@@ -2,11 +2,11 @@
 
 title: "Case Logic Camera Cases"
 
-slug: "/shop/case-logic-camera-cases/"
+slug: "/case-logic-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.797620"
 

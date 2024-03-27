@@ -2,11 +2,11 @@
 
 title: "Logitech Mouse Pad"
 
-slug: "/shop/best/logitech-mouse-pad/"
+slug: "/best/logitech-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.692391"
 

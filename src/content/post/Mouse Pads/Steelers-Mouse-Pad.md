@@ -2,11 +2,11 @@
 
 title: "Steelers Mouse Pad"
 
-slug: "/shop/best/steelers-mouse-pad/"
+slug: "/best/steelers-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.681876"
 

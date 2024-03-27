@@ -2,11 +2,11 @@
 
 title: "Magnus Gaming Desks"
 
-slug: "/shop/best/magnus-gaming-desks/"
+slug: "/best/magnus-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.771825"
 

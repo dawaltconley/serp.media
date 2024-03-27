@@ -2,11 +2,11 @@
 
 title: "Mandalorian Mouse Pad"
 
-slug: "/shop/best/mandalorian-mouse-pad/"
+slug: "/best/mandalorian-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.670530"
 

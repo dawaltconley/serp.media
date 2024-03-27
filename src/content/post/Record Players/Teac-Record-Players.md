@@ -2,11 +2,11 @@
 
 title: "Teac Record Players"
 
-slug: "/shop/best/teac-record-players/"
+slug: "/best/teac-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.834769"
 

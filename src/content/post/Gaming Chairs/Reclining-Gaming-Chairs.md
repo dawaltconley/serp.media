@@ -2,11 +2,11 @@
 
 title: "Reclining Gaming Chairs"
 
-slug: "/shop/best/reclining-gaming-chairs/"
+slug: "/best/reclining-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.744482"
 

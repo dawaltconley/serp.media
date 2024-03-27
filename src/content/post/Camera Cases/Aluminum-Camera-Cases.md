@@ -2,11 +2,11 @@
 
 title: "Aluminum Camera Cases"
 
-slug: "/shop/best/aluminum-camera-cases/"
+slug: "/best/aluminum-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.818301"
 

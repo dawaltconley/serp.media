@@ -2,11 +2,11 @@
 
 title: "Mouse Pad Black and White"
 
-slug: "/shop/best/mouse-pad-black-and-white/"
+slug: "/best/mouse-pad-black-and-white/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.672350"
 

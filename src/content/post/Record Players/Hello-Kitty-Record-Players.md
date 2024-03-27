@@ -2,11 +2,11 @@
 
 title: "Hello Kitty Record Players"
 
-slug: "/shop/best/hello-kitty-record-players/"
+slug: "/best/hello-kitty-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.853854"
 

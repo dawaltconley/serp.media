@@ -2,11 +2,11 @@
 
 title: "Camera Case Dividers"
 
-slug: "/shop/camera-case-dividers/"
+slug: "/camera-case-dividers/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.810005"
 

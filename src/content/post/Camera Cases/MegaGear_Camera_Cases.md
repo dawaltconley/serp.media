@@ -2,11 +2,11 @@
 
 title: "MegaGear Camera Cases"
 
-slug: "/shop/megagear-camera-cases/"
+slug: "/megagear-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.813166"
 

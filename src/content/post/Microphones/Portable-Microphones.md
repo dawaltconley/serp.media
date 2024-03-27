@@ -2,11 +2,11 @@
 
 title: "Portable Microphones"
 
-slug: "/shop/best/portable-microphones/"
+slug: "/best/portable-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.731472"
 

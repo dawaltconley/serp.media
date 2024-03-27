@@ -2,11 +2,11 @@
 
 title: "Dual Monitor Gaming Desks"
 
-slug: "/shop/best/dual-monitor-gaming-desks/"
+slug: "/best/dual-monitor-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.778282"
 

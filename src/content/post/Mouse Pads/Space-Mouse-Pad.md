@@ -2,11 +2,11 @@
 
 title: "Space Mouse Pad"
 
-slug: "/shop/best/space-mouse-pad/"
+slug: "/best/space-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.664137"
 

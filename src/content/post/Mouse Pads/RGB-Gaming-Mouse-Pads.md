@@ -2,11 +2,11 @@
 
 title: "RGB Gaming Mouse Pads"
 
-slug: "/shop/best/rgb-gaming-mouse-pads/"
+slug: "/best/rgb-gaming-mouse-pads/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.699159"
 

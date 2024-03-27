@@ -2,11 +2,11 @@
 
 title: "Clix Mouse Pad"
 
-slug: "/shop/best/clix-mouse-pad/"
+slug: "/best/clix-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.685023"
 

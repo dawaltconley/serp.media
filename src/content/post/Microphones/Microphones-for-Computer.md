@@ -2,11 +2,11 @@
 
 title: "Microphones for Computer"
 
-slug: "/shop/best/microphones-for-computer/"
+slug: "/best/microphones-for-computer/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.712573"
 

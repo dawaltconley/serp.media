@@ -2,11 +2,11 @@
 
 title: "Gaming Microphones"
 
-slug: "/shop/best/gaming-microphones/"
+slug: "/best/gaming-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.731849"
 

@@ -4,7 +4,7 @@ title: "All 73 Abhishek Bachchan Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-abhishek-bachchan-movies-in-order/"
+slug: "/all-abhishek-bachchan-movies-in-order/"
 
 excerpt: ""
 

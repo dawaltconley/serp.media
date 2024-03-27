@@ -2,11 +2,11 @@
 
 title: "Rick and Morty Mouse Pad"
 
-slug: "/shop/best/rick-and-morty-mouse-pad/"
+slug: "/best/rick-and-morty-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.688418"
 

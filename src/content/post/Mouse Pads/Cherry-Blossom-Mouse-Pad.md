@@ -2,11 +2,11 @@
 
 title: "Cherry Blossom Mouse Pad"
 
-slug: "/shop/best/cherry-blossom-mouse-pad/"
+slug: "/best/cherry-blossom-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.650828"
 

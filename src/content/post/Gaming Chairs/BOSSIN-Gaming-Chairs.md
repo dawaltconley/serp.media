@@ -2,11 +2,11 @@
 
 title: "BOSSIN Gaming Chairs"
 
-slug: "/shop/best/bossin-gaming-chairs/"
+slug: "/best/bossin-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.759446"
 

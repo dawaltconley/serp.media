@@ -2,11 +2,11 @@
 
 title: "Circle Mouse Pad"
 
-slug: "/shop/best/circle-mouse-pad/"
+slug: "/best/circle-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.701192"
 

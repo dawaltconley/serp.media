@@ -2,11 +2,11 @@
 
 title: "Clear Record Players"
 
-slug: "/shop/best/clear-record-players/"
+slug: "/best/clear-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.843830"
 

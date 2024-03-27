@@ -2,11 +2,11 @@
 
 title: "Minimalist Gaming Desks"
 
-slug: "/shop/best/minimalist-gaming-desks/"
+slug: "/best/minimalist-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.776869"
 

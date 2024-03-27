@@ -2,11 +2,11 @@
 
 title: "Massage Gaming Chairs"
 
-slug: "/shop/best/massage-gaming-chairs/"
+slug: "/best/massage-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.755097"
 

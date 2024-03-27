@@ -2,11 +2,11 @@
 
 title: "Cinnamoroll Mouse Pad"
 
-slug: "/shop/best/cinnamoroll-mouse-pad/"
+slug: "/best/cinnamoroll-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.687192"
 

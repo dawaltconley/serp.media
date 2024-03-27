@@ -2,11 +2,11 @@
 
 title: "Bose Record Players"
 
-slug: "/shop/best/bose-record-players/"
+slug: "/best/bose-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.851614"
 

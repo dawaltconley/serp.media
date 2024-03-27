@@ -2,11 +2,11 @@
 
 title: "Action Camera Cases"
 
-slug: "/shop/action-camera-cases/"
+slug: "/action-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.796464"
 

@@ -2,11 +2,11 @@
 
 title: "Pink Gaming Chairs"
 
-slug: "/shop/best/pink-gaming-chairs/"
+slug: "/best/pink-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.762948"
 

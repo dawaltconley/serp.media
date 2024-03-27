@@ -2,11 +2,11 @@
 
 title: "Red Gaming Mouse Pads"
 
-slug: "/shop/best/red-gaming-mouse-pads/"
+slug: "/best/red-gaming-mouse-pads/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.658287"
 

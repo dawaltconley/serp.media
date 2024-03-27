@@ -2,11 +2,11 @@
 
 title: "Stackable Record Players"
 
-slug: "/shop/best/stackable-record-players/"
+slug: "/best/stackable-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.834052"
 

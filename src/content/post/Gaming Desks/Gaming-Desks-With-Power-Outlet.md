@@ -2,11 +2,11 @@
 
 title: "Gaming Desks With Power Outlet"
 
-slug: "/shop/best/gaming-desks-with-power-outlet/"
+slug: "/best/gaming-desks-with-power-outlet/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.769211"
 

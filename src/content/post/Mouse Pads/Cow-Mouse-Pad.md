@@ -2,11 +2,11 @@
 
 title: "Cow Mouse Pad"
 
-slug: "/shop/best/cow-mouse-pad/"
+slug: "/best/cow-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.652188"
 

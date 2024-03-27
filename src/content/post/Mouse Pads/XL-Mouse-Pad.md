@@ -2,11 +2,11 @@
 
 title: "XL Mouse Pad"
 
-slug: "/shop/best/xl-mouse-pad/"
+slug: "/best/xl-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.657793"
 

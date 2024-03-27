@@ -2,11 +2,11 @@
 
 title: "Sennheiser Wireless Microphones"
 
-slug: "/shop/best/sennheiser-wireless-microphones/"
+slug: "/best/sennheiser-wireless-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.720224"
 

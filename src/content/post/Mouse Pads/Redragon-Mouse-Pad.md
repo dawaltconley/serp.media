@@ -2,11 +2,11 @@
 
 title: "Redragon Mouse Pad"
 
-slug: "/shop/best/redragon-mouse-pad/"
+slug: "/best/redragon-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.707138"
 

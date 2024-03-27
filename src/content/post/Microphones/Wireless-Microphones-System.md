@@ -2,11 +2,11 @@
 
 title: "Wireless Microphones System"
 
-slug: "/shop/best/wireless-microphones-system/"
+slug: "/best/wireless-microphones-system/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.733404"
 

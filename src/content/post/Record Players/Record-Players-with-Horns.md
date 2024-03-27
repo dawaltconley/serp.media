@@ -2,11 +2,11 @@
 
 title: "Record Players with Horns"
 
-slug: "/shop/best/record-players-with-horns/"
+slug: "/best/record-players-with-horns/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.850893"
 

@@ -2,11 +2,11 @@
 
 title: "Red and Black Mouse Pad"
 
-slug: "/shop/best/red-and-black-mouse-pad/"
+slug: "/best/red-and-black-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.667128"
 

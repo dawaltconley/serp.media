@@ -2,11 +2,11 @@
 
 title: "Camera Battery Cases"
 
-slug: "/shop/camera-battery-cases/"
+slug: "/camera-battery-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.811852"
 

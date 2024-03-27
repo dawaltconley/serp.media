@@ -2,11 +2,11 @@
 
 title: "Garrard Record Players"
 
-slug: "/shop/best/garrard-record-players/"
+slug: "/best/garrard-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.842744"
 

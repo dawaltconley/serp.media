@@ -2,11 +2,11 @@
 
 title: "Sony Camera Cases"
 
-slug: "/shop/sony-camera-cases/"
+slug: "/sony-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.817941"
 

@@ -4,7 +4,7 @@ title: "All 49 Aaron Eckhart Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-aaron-eckhart-movies-in-order/"
+slug: "/all-aaron-eckhart-movies-in-order/"
 
 excerpt: ""
 

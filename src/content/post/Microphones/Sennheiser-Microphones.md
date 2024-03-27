@@ -2,11 +2,11 @@
 
 title: "Sennheiser Microphones"
 
-slug: "/shop/best/sennheiser-microphones/"
+slug: "/best/sennheiser-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.731072"
 

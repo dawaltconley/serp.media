@@ -2,11 +2,11 @@
 
 title: "Carbon Fiber Gaming Desks"
 
-slug: "/shop/best/carbon-fiber-gaming-desks/"
+slug: "/best/carbon-fiber-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.779334"
 

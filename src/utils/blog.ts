@@ -243,3 +243,23 @@ export const getStaticPathsBlogTag = async ({ paginate }: { paginate: PaginateFu
     )
   );
 };
+
+export interface TagGroup {
+  tag: string;
+  posts: Post[];
+}
+
+export function mapByTag(posts: Post[]): Map<string, TagGroup> {
+  return posts.reduce((map, post) => {
+    post.tags?.forEach((tag) => {
+      const slug = tag.toLowerCase();
+      const byTag = map.get(slug);
+      if (byTag) {
+        byTag.posts.push(post);
+      } else {
+        map.set(slug, { tag, posts: [post] });
+      }
+    });
+    return map;
+  }, new Map<string, TagGroup>());
+}

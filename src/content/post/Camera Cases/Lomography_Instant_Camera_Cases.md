@@ -2,11 +2,11 @@
 
 title: "Lomography Instant Camera Cases"
 
-slug: "/shop/lomography-instant-camera-cases/"
+slug: "/lomography-instant-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.796023"
 

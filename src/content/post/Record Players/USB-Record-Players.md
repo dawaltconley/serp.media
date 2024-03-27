@@ -2,11 +2,11 @@
 
 title: "USB Record Players"
 
-slug: "/shop/best/usb-record-players/"
+slug: "/best/usb-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.831913"
 

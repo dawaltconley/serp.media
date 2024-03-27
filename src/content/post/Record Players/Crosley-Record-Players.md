@@ -2,11 +2,11 @@
 
 title: "Crosley Record Players"
 
-slug: "/shop/best/crosley-record-players/"
+slug: "/best/crosley-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.831536"
 

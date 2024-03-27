@@ -2,11 +2,11 @@
 
 title: "Blue Record Players"
 
-slug: "/shop/best/blue-record-players/"
+slug: "/best/blue-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.846862"
 

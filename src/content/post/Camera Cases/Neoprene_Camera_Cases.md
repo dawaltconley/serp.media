@@ -2,11 +2,11 @@
 
 title: "Neoprene Camera Cases"
 
-slug: "/shop/neoprene-camera-cases/"
+slug: "/neoprene-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.800342"
 

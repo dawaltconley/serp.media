@@ -2,11 +2,11 @@
 
 title: "GTRACING Gaming Chairs"
 
-slug: "/shop/best/gtracing-gaming-chairs/"
+slug: "/best/gtracing-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.749857"
 

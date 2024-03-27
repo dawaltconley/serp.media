@@ -2,11 +2,11 @@
 
 title: "Green Gaming Chairs"
 
-slug: "/shop/best/green-gaming-chairs/"
+slug: "/best/green-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.744117"
 

@@ -2,11 +2,11 @@
 
 title: "Edison Record Players"
 
-slug: "/shop/best/edison-record-players/"
+slug: "/best/edison-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.853159"
 

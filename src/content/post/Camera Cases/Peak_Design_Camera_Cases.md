@@ -2,11 +2,11 @@
 
 title: "Peak Design Camera Cases"
 
-slug: "/shop/peak-design-camera-cases/"
+slug: "/peak-design-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.794755"
 

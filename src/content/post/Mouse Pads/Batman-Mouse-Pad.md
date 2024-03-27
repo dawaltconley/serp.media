@@ -2,11 +2,11 @@
 
 title: "Batman Mouse Pad"
 
-slug: "/shop/best/batman-mouse-pad/"
+slug: "/best/batman-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.675316"
 

@@ -2,11 +2,11 @@
 
 title: "Anime Gaming Chairs"
 
-slug: "/shop/best/anime-gaming-chairs/"
+slug: "/best/anime-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.756292"
 

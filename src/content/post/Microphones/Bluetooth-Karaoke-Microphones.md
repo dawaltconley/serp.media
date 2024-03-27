@@ -2,11 +2,11 @@
 
 title: "Bluetooth Karaoke Microphones"
 
-slug: "/shop/best/bluetooth-karaoke-microphones/"
+slug: "/best/bluetooth-karaoke-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.739375"
 

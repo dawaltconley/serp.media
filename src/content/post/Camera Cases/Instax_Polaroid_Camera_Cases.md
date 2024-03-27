@@ -2,11 +2,11 @@
 
 title: "Instax Polaroid Camera Cases"
 
-slug: "/shop/instax-polaroid-camera-cases/"
+slug: "/instax-polaroid-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.810424"
 

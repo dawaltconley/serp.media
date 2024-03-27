@@ -2,11 +2,11 @@
 
 title: "Wooden Mouse Pad"
 
-slug: "/shop/best/wooden-mouse-pad/"
+slug: "/best/wooden-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.699592"
 

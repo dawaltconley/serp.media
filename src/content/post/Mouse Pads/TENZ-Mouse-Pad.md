@@ -2,11 +2,11 @@
 
 title: "TENZ Mouse Pad"
 
-slug: "/shop/best/tenz-mouse-pad/"
+slug: "/best/tenz-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.691466"
 

@@ -2,11 +2,11 @@
 
 title: "LED Gaming Desks"
 
-slug: "/shop/best/led-gaming-desks/"
+slug: "/best/led-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.787799"
 

@@ -2,11 +2,11 @@
 
 title: "Modern Gaming Desks"
 
-slug: "/shop/best/modern-gaming-desks/"
+slug: "/best/modern-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.766635"
 

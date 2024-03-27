@@ -2,11 +2,11 @@
 
 title: "Mouse Pad"
 
-slug: "/shop/best/mouse-pad/"
+slug: "/best/mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.704373"
 

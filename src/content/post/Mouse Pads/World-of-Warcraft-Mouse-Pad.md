@@ -2,11 +2,11 @@
 
 title: "World of Warcraft Mouse Pad"
 
-slug: "/shop/best/world-of-warcraft-mouse-pad/"
+slug: "/best/world-of-warcraft-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.659087"
 

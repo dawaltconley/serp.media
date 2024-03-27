@@ -2,11 +2,11 @@
 
 title: "KILLABEE Gaming Chairs"
 
-slug: "/shop/best/killabee-gaming-chairs/"
+slug: "/best/killabee-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.755471"
 

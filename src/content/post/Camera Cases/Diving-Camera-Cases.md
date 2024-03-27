@@ -2,11 +2,11 @@
 
 title: "Diving Camera Cases"
 
-slug: "/shop/best/diving-camera-cases/"
+slug: "/best/diving-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.815580"
 

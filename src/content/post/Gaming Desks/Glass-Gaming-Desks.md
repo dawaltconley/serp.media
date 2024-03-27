@@ -2,11 +2,11 @@
 
 title: "Glass Gaming Desks"
 
-slug: "/shop/best/glass-gaming-desks/"
+slug: "/best/glass-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.781174"
 

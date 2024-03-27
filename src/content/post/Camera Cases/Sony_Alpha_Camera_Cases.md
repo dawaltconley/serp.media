@@ -2,11 +2,11 @@
 
 title: "Sony Alpha Camera Cases"
 
-slug: "/shop/sony-alpha-camera-cases/"
+slug: "/sony-alpha-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.825996"
 

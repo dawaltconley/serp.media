@@ -2,11 +2,11 @@
 
 title: "Sony a6400 Camera Cases"
 
-slug: "/shop/sony-a6400-camera-cases/"
+slug: "/sony-a6400-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.808653"
 

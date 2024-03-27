@@ -2,11 +2,11 @@
 
 title: "Wireless Headphones with Microphones"
 
-slug: "/shop/best/wireless-headphones-with-microphones/"
+slug: "/best/wireless-headphones-with-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.737484"
 

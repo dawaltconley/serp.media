@@ -2,11 +2,11 @@
 
 title: "Wireless Charging Mouse Pad"
 
-slug: "/shop/best/wireless-charging-mouse-pad/"
+slug: "/best/wireless-charging-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.700690"
 

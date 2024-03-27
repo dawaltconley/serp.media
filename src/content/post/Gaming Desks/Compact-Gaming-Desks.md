@@ -2,11 +2,11 @@
 
 title: "Compact Gaming Desks"
 
-slug: "/shop/best/compact-gaming-desks/"
+slug: "/best/compact-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.769957"
 

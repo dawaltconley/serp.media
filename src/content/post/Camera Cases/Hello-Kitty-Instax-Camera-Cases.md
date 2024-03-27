@@ -2,11 +2,11 @@
 
 title: "Hello Kitty Instax Camera Cases"
 
-slug: "/shop/best/hello-kitty-instax-camera-cases/"
+slug: "/best/hello-kitty-instax-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.800774"
 

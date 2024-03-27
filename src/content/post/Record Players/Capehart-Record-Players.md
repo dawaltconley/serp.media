@@ -2,11 +2,11 @@
 
 title: "Capehart Record Players"
 
-slug: "/shop/best/capehart-record-players/"
+slug: "/best/capehart-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.841618"
 

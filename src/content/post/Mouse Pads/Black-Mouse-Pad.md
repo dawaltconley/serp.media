@@ -2,11 +2,11 @@
 
 title: "Black Mouse Pad"
 
-slug: "/shop/best/black-mouse-pad/"
+slug: "/best/black-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.693879"
 

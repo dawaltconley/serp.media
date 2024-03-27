@@ -4,7 +4,7 @@ title: "All 27 Aaron Sorkin Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-aaron-sorkin-movies-in-order/"
+slug: "/all-aaron-sorkin-movies-in-order/"
 
 excerpt: ""
 

@@ -2,11 +2,11 @@
 
 title: "35mm Camera Cases"
 
-slug: "/shop/35mm-camera-cases/"
+slug: "/35mm-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.805454"
 

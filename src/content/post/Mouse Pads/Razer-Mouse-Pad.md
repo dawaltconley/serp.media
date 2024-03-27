@@ -2,11 +2,11 @@
 
 title: "Razer Mouse Pad"
 
-slug: "/shop/best/razer-mouse-pad/"
+slug: "/best/razer-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.674388"
 

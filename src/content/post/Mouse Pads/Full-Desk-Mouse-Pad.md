@@ -2,11 +2,11 @@
 
 title: "Full Desk Mouse Pad"
 
-slug: "/shop/best/full-desk-mouse-pad/"
+slug: "/best/full-desk-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.683858"
 

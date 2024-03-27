@@ -2,11 +2,11 @@
 
 title: "Belkin Mouse Pad"
 
-slug: "/shop/best/belkin-mouse-pad/"
+slug: "/best/belkin-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.662372"
 

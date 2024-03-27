@@ -2,11 +2,11 @@
 
 title: "Zero Two Mouse Pad"
 
-slug: "/shop/best/zero-two-mouse-pad/"
+slug: "/best/zero-two-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.710892"
 

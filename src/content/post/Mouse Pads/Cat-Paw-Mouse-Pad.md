@@ -2,11 +2,11 @@
 
 title: "Cat Paw Mouse Pad"
 
-slug: "/shop/best/cat-paw-mouse-pad/"
+slug: "/best/cat-paw-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.695686"
 

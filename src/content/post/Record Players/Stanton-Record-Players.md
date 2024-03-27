@@ -2,11 +2,11 @@
 
 title: "Stanton Record Players"
 
-slug: "/shop/best/stanton-record-players/"
+slug: "/best/stanton-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.838730"
 

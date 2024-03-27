@@ -2,11 +2,11 @@
 
 title: "Gaming Desks With Drawer"
 
-slug: "/shop/best/gaming-desks-with-drawer/"
+slug: "/best/gaming-desks-with-drawer/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.772939"
 

@@ -2,11 +2,11 @@
 
 title: "Zoom Microphones"
 
-slug: "/shop/best/zoom-microphones/"
+slug: "/best/zoom-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.719231"
 

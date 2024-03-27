@@ -2,11 +2,11 @@
 
 title: "63 Inch Gaming Desks"
 
-slug: "/shop/best/63-inch-gaming-desks/"
+slug: "/best/63-inch-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.790559"
 

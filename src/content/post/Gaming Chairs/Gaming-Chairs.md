@@ -2,11 +2,11 @@
 
 title: "Gaming Chairs"
 
-slug: "/shop/best/gaming-chairs/"
+slug: "/best/gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.746672"
 

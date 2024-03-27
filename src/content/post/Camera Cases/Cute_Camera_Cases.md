@@ -2,11 +2,11 @@
 
 title: "Cute Camera Cases"
 
-slug: "/shop/cute-camera-cases/"
+slug: "/cute-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.798023"
 

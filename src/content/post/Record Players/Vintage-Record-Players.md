@@ -2,11 +2,11 @@
 
 title: "Vintage Record Players"
 
-slug: "/shop/best/vintage-record-players/"
+slug: "/best/vintage-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.830214"
 

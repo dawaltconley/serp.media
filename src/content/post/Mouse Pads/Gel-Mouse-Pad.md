@@ -2,11 +2,11 @@
 
 title: "Gel Mouse Pad"
 
-slug: "/shop/best/gel-mouse-pad/"
+slug: "/best/gel-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.707523"
 

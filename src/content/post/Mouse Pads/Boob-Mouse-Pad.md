@@ -2,11 +2,11 @@
 
 title: "Boob Mouse Pad"
 
-slug: "/shop/best/boob-mouse-pad/"
+slug: "/best/boob-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.682848"
 

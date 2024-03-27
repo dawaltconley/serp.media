@@ -2,11 +2,11 @@
 
 title: "Murakami Mouse Pad"
 
-slug: "/shop/best/murakami-mouse-pad/"
+slug: "/best/murakami-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.664859"
 

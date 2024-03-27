@@ -2,11 +2,11 @@
 
 title: "XLR Microphones"
 
-slug: "/shop/best/xlr-microphones/"
+slug: "/best/xlr-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.724644"
 

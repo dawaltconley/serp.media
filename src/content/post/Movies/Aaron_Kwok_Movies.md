@@ -4,7 +4,7 @@ title: "All 65 Aaron Kwok Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-aaron-kwok-movies-in-order/"
+slug: "/all-aaron-kwok-movies-in-order/"
 
 excerpt: ""
 

@@ -2,11 +2,11 @@
 
 title: "Canon PowerShot Camera Cases"
 
-slug: "/shop/best/canon-powershot-camera-cases/"
+slug: "/best/canon-powershot-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.820954"
 

@@ -2,11 +2,11 @@
 
 title: "Small Gaming Desks"
 
-slug: "/shop/best/small-gaming-desks/"
+slug: "/best/small-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.786260"
 

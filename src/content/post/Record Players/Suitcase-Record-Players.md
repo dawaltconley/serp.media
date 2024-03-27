@@ -2,11 +2,11 @@
 
 title: "Suitcase Record Players"
 
-slug: "/shop/best/suitcase-record-players/"
+slug: "/best/suitcase-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.838336"
 

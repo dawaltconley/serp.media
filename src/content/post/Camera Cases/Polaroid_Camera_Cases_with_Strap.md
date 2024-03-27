@@ -2,11 +2,11 @@
 
 title: "Polaroid Camera Cases with Strap"
 
-slug: "/shop/polaroid-camera-cases-with-strap/"
+slug: "/polaroid-camera-cases-with-strap/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.805867"
 

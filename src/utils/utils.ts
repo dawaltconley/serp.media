@@ -84,3 +84,11 @@ export function parseMetaRobots(robotsString: string): MetaRobots {
 
   return parsed;
 }
+
+export const mapBy = <T, G>(array: T[], getGroup: (item: T) => G, map = new Map<G, T[]>()): Map<G, T[]> =>
+  array.reduce((map, item) => {
+    const group = getGroup(item);
+    const grouped = map.get(group) || [];
+    grouped.push(item);
+    return map.set(group, grouped);
+  }, map);

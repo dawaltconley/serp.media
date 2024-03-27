@@ -2,11 +2,11 @@
 
 title: "Red Gaming Chairs"
 
-slug: "/shop/best/red-gaming-chairs/"
+slug: "/best/red-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.750581"
 

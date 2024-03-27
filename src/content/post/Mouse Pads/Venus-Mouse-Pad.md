@@ -2,11 +2,11 @@
 
 title: "Venus Mouse Pad"
 
-slug: "/shop/best/venus-mouse-pad/"
+slug: "/best/venus-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.701605"
 

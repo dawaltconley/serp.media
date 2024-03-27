@@ -2,11 +2,11 @@
 
 title: "Gold Mouse Pad"
 
-slug: "/shop/best/gold-mouse-pad/"
+slug: "/best/gold-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.676517"
 

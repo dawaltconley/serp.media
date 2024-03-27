@@ -2,11 +2,11 @@
 
 title: "Omega Gaming Chairs"
 
-slug: "/shop/best/omega-gaming-chairs/"
+slug: "/best/omega-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.757821"
 

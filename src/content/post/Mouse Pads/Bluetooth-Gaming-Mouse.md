@@ -2,11 +2,11 @@
 
 title: "Bluetooth Gaming Mouse"
 
-slug: "/shop/best/bluetooth-gaming-mouse/"
+slug: "/best/bluetooth-gaming-mouse/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.705061"
 

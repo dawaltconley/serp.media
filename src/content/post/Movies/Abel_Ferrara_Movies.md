@@ -4,7 +4,7 @@ title: "All 59 Abel Ferrara Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-abel-ferrara-movies-in-order/"
+slug: "/all-abel-ferrara-movies-in-order/"
 
 excerpt: ""
 

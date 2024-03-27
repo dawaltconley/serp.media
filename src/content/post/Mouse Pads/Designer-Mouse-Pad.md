@@ -2,11 +2,11 @@
 
 title: "Designer Mouse Pad"
 
-slug: "/shop/best/designer-mouse-pad/"
+slug: "/best/designer-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.698303"
 

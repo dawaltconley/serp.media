@@ -2,11 +2,11 @@
 
 title: "Calendar Mouse Pad"
 
-slug: "/shop/best/calendar-mouse-pad/"
+slug: "/best/calendar-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.693404"
 

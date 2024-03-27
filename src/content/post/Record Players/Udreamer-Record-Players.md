@@ -2,11 +2,11 @@
 
 title: "Udreamer Record Players"
 
-slug: "/shop/best/udreamer-record-players/"
+slug: "/best/udreamer-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.847198"
 

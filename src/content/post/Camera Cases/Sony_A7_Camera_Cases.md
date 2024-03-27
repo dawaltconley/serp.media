@@ -2,11 +2,11 @@
 
 title: "Sony A7 Camera Cases"
 
-slug: "/shop/sony-a7-camera-cases/"
+slug: "/sony-a7-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.812321"
 

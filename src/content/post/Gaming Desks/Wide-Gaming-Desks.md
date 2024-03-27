@@ -2,11 +2,11 @@
 
 title: "Wide Gaming Desks"
 
-slug: "/shop/best/wide-gaming-desks/"
+slug: "/best/wide-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.764761"
 

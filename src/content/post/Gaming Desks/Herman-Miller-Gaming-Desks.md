@@ -2,11 +2,11 @@
 
 title: "Herman Miller Gaming Desks"
 
-slug: "/shop/best/herman-miller-gaming-desks/"
+slug: "/best/herman-miller-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.785382"
 

@@ -2,11 +2,11 @@
 
 title: "Small Corner Gaming Desks"
 
-slug: "/shop/best/small-corner-gaming-desks/"
+slug: "/best/small-corner-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.777591"
 

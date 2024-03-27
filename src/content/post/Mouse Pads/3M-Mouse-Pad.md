@@ -2,11 +2,11 @@
 
 title: "3M Mouse Pad"
 
-slug: "/shop/best/3m-mouse-pad/"
+slug: "/best/3m-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.706232"
 

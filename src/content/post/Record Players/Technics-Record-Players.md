@@ -2,11 +2,11 @@
 
 title: "Technics Record Players"
 
-slug: "/shop/best/technics-record-players/"
+slug: "/best/technics-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.836193"
 

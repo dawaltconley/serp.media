@@ -4,7 +4,7 @@ title: "All 43 Aaron Ashmore Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-aaron-ashmore-movies-in-order/"
+slug: "/all-aaron-ashmore-movies-in-order/"
 
 excerpt: ""
 

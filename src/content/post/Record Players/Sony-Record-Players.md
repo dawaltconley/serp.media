@@ -2,11 +2,11 @@
 
 title: "Sony Record Players"
 
-slug: "/shop/best/sony-record-players/"
+slug: "/best/sony-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.834406"
 

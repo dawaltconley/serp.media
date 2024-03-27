@@ -2,11 +2,11 @@
 
 title: "Purple Gaming Chairs"
 
-slug: "/shop/best/purple-gaming-chairs/"
+slug: "/best/purple-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.745222"
 

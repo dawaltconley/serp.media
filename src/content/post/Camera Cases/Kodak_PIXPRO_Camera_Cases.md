@@ -2,11 +2,11 @@
 
 title: "Kodak PIXPRO Camera Cases"
 
-slug: "/shop/kodak-pixpro-camera-cases/"
+slug: "/kodak-pixpro-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.807502"
 

@@ -2,11 +2,11 @@
 
 title: "Marshall Record Players"
 
-slug: "/shop/best/marshall-record-players/"
+slug: "/best/marshall-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.849298"
 

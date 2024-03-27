@@ -2,11 +2,11 @@
 
 title: "Gaming Desks with Storage"
 
-slug: "/shop/best/gaming-desks-with-storage/"
+slug: "/best/gaming-desks-with-storage/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.793447"
 

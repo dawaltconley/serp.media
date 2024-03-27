@@ -2,11 +2,11 @@
 
 title: "Anime Mouse Pad with Wrist Support"
 
-slug: "/shop/best/anime-mouse-pad-with-wrist-support/"
+slug: "/best/anime-mouse-pad-with-wrist-support/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.650001"
 

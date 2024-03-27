@@ -2,11 +2,11 @@
 
 title: "Game of Thrones Gaming Chairs"
 
-slug: "/shop/best/game-of-thrones-gaming-chairs/"
+slug: "/best/game-of-thrones-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.758616"
 

@@ -2,11 +2,11 @@
 
 title: "Ergonomic Gaming Desks"
 
-slug: "/shop/best/ergonomic-gaming-desks/"
+slug: "/best/ergonomic-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.775465"
 

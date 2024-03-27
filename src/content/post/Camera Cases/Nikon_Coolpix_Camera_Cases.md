@@ -2,11 +2,11 @@
 
 title: "Nikon Coolpix Camera Cases"
 
-slug: "/shop/nikon-coolpix-camera-cases/"
+slug: "/nikon-coolpix-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.817174"
 

@@ -2,11 +2,11 @@
 
 title: "Nanuk Camera Cases"
 
-slug: "/shop/nanuk-camera-cases/"
+slug: "/nanuk-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.801593"
 

@@ -2,11 +2,11 @@
 
 title: "Lavalier Microphones"
 
-slug: "/shop/best/lavalier-microphones/"
+slug: "/best/lavalier-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.741622"
 

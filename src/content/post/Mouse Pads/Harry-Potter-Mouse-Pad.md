@@ -2,11 +2,11 @@
 
 title: "Harry Potter Mouse Pad"
 
-slug: "/shop/best/harry-potter-mouse-pad/"
+slug: "/best/harry-potter-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.685466"
 

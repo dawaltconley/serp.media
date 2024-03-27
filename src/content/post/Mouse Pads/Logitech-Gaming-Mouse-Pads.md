@@ -2,11 +2,11 @@
 
 title: "Logitech Gaming Mouse Pads"
 
-slug: "/shop/best/logitech-gaming-mouse-pads/"
+slug: "/best/logitech-gaming-mouse-pads/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.651632"
 

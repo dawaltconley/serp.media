@@ -2,11 +2,11 @@
 
 title: "Star Wars Mouse Pad"
 
-slug: "/shop/best/star-wars-mouse-pad/"
+slug: "/best/star-wars-mouse-pad/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.648995"
 

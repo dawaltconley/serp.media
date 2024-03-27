@@ -2,11 +2,11 @@
 
 title: "Black L Shaped Gaming Desks"
 
-slug: "/shop/best/black-l-shaped-gaming-desks/"
+slug: "/best/black-l-shaped-gaming-desks/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.790921"
 

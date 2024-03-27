@@ -2,11 +2,11 @@
 
 title: "Small Record Players"
 
-slug: "/shop/best/small-record-players/"
+slug: "/best/small-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.839830"
 

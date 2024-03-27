@@ -2,11 +2,11 @@
 
 title: "Ewin Gaming Chairs"
 
-slug: "/shop/best/ewin-gaming-chairs/"
+slug: "/best/ewin-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.748227"
 

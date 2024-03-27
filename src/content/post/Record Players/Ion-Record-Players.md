@@ -2,11 +2,11 @@
 
 title: "Ion Record Players"
 
-slug: "/shop/best/ion-record-players/"
+slug: "/best/ion-record-players/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.853507"
 

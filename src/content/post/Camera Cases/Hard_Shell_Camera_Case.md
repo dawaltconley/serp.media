@@ -2,11 +2,11 @@
 
 title: "Hard Shell Camera Case"
 
-slug: "/shop/hard-shell-camera-case/"
+slug: "/hard-shell-camera-case/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.828510"
 

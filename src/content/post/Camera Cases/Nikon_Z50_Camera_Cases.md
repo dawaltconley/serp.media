@@ -2,11 +2,11 @@
 
 title: "Nikon Z50 Camera Cases"
 
-slug: "/shop/nikon-z50-camera-cases/"
+slug: "/nikon-z50-camera-cases/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.807103"
 

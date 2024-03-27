@@ -2,11 +2,11 @@
 
 title: "Pink and White Gaming Chairs"
 
-slug: "/shop/best/pink-and-white-gaming-chairs/"
+slug: "/best/pink-and-white-gaming-chairs/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.757468"
 

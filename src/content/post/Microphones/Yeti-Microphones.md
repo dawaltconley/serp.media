@@ -2,11 +2,11 @@
 
 title: "Yeti Microphones"
 
-slug: "/shop/best/yeti-microphones/"
+slug: "/best/yeti-microphones/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.721761"
 

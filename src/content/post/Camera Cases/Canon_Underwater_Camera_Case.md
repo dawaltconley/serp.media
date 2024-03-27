@@ -2,11 +2,11 @@
 
 title: "Canon Underwater Camera Case"
 
-slug: "/shop/canon-underwater-camera-case/"
+slug: "/canon-underwater-camera-case/"
 
 excerpt: ""
 
-category: "Posts"
+category: "Shop"
 
 publishDate: "2024-03-18T17:47:42.807872"
 

@@ -4,7 +4,7 @@ title: "All 36 Aaron Paul Movies (in Order)"
 
 category: "Movies"
 
-slug: "/movies/all-aaron-paul-movies-in-order/"
+slug: "/all-aaron-paul-movies-in-order/"
 
 excerpt: ""
 
