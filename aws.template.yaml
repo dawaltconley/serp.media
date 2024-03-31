@@ -1,0 +1,52 @@
+# See https://github.com/dawaltconley/cfn-static-website
+
+AWSTemplateFormatVersion: 2010-09-09
+Description: Resources for an incremental build pipeline.
+
+Metadata:
+  cfn-lint:
+    config:
+      ignore_checks:
+        - W3002 # ignore warnings about dependency on the `package` command
+
+Resources:
+  SiteBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: serp.media.test
+      PublicAccessBlockConfiguration:
+        BlockPublicPolicy: FALSE
+      WebsiteConfiguration:
+        IndexDocument: index.html
+  SiteBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref SiteBucket
+      PolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Sid: 'PublicReadGetObject'
+            Effect: 'Allow'
+            Principal: '*'
+            Action: 's3:GetObject'
+            Resource: !Sub 'arn:aws:s3:::${SiteBucket}/*'
+
+  GitHubDeployment:
+    Type: AWS::CloudFormation::Stack
+    Properties:
+      TemplateURL: ./node_modules/@dawaltconley/cfn-static-website/git-pipeline.template.yaml
+      Parameters:
+        SiteBucket: !Ref SiteBucket
+        SourceLocation: https://github.com/dawaltconley/serp.media.git
+        SourceBranch: aws-content-cache
+        EnvironmentImage: aws/codebuild/standard:7.0
+        EnvironmentComputeType: BUILD_GENERAL1_LARGE # fastest, could try smaller
+        UseBuildArtifacts: 'false'
+        CacheType: S3
+        CacheExpiration: 0 # indefinite
+
+Outputs:
+  SiteBucket:
+    Value: !Ref SiteBucket
+  SiteUrl:
+    Value: !GetAtt SiteBucket.WebsiteURL

@@ -10,7 +10,9 @@
     "preview": "NODE_OPTIONS='--max-old-space-size=8192' astro preview",
     "astro": "NODE_OPTIONS='--max-old-space-size=8192' astro",
     "format": "prettier -w .",
-    "lint:eslint": "eslint . --ext .js,.ts,.astro"
+    "lint:eslint": "eslint . --ext .js,.ts,.astro",
+    "cloudformation:package": "aws cloudformation package --template-file aws.template.yaml --s3-bucket cf-templates-m6s9n0rrcicj-us-east-1 --s3-prefix static-websites/serp --output-template-file ./packaged.template.yaml",
+    "cloudformation:deploy": "aws cloudformation deploy --template-file ./packaged.template.yaml --stack-name SerpMediaTest --capabilities CAPABILITY_IAM CAPABILITY_AUTO_EXPAND"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.1",
@@ -31,6 +33,7 @@
     "@astrojs/mdx": "^2.0.0",
     "@astrojs/partytown": "^2.0.2",
     "@astrojs/tailwind": "5.0.3",
+    "@dawaltconley/cfn-static-website": "^3.2.0",
     "@iconify-json/flat-color-icons": "^1.1.9",
     "@iconify-json/tabler": "^1.1.100",
     "@tailwindcss/typography": "^0.5.10",

@@ -1,0 +1,34 @@
+version: 0.2
+
+env:
+  variables:
+    NODE_ENV: production
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 18
+    commands:
+      - npm install --cache .npm
+  build:
+    on-failure: ABORT
+    commands:
+      - npm run build
+  post_build:
+    commands:
+      - |
+        aws s3 sync --delete dist s3://$SITE_BUCKET \
+          --cache-control 'max-age=31536000' \
+          --exclude="*" \
+          --include="_astro/*" \
+          --size-only
+      - |
+        aws s3 sync --delete dist s3://$SITE_BUCKET \
+          --cache-control 'no-cache' \
+          --exclude="_astro/*"
+
+cache:
+  paths:
+    - 'node_modules/**/*'
+    - '.npm/**/*'
+    - '.cache/**/*'
