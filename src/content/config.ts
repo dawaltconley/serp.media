@@ -11,27 +11,26 @@ export type Category = z.infer<typeof postCategories>;
 
 const metadata = z
   .object({
-    title: z.string().optional(),
-    ignoreTitleTemplate: z.boolean().optional(),
+    title: z.string(),
+    ignoreTitleTemplate: z.boolean(),
 
-    canonical: z.string().url().optional(),
+    canonical: z.string().url(),
 
-    robots: z.object({ index: z.boolean(), follow: z.boolean() }).partial().optional(),
+    robots: z.object({ index: z.boolean(), follow: z.boolean() }).partial(),
 
-    description: z.string().optional(),
+    description: z.string(),
 
     openGraph: z
       .object({
-        url: z.string(),
+        url: z.string().url(),
         siteName: z.string(),
-        images: z.array(z.object({ url: z.string(), width: z.number(), height: z.number().optional() })),
+        images: z.array(z.object({ url: z.string().url(), width: z.number(), height: z.number().optional() })),
         locale: z.string(),
         type: z.string(),
       })
-      .partial()
-      .optional(),
+      .partial(),
 
-    twitter: z.object({ handle: z.string(), site: z.string(), cardType: z.string() }).partial().optional(),
+    twitter: z.object({ handle: z.string(), site: z.string(), cardType: z.string() }).partial(),
   })
   .partial()
   .optional();

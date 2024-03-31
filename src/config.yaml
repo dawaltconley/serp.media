@@ -56,7 +56,7 @@ apps:
 
     tag:
       isEnabled: true
-      pathname: 'best' # Tag main path /tag/some-tag, you can change this to "topics" (/topics/some-category)
+      pathname: 'foo' # Tag main path /tag/some-tag, you can change this to "topics" (/topics/some-category)
       robots:
         index: false
 

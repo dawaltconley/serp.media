@@ -4,6 +4,8 @@ title: "All 34 Aaliyah Movies (in Order)"
 
 category: "Movies"
 
+tags: ['Tag A', 'Tag B', 'Tag C']
+
 slug: "/all-aaliyah-movies-in-order/"
 
 excerpt: ""
@@ -14,6 +16,21 @@ image: ""
 
 seoTitle: "All 34 Aaliyah Movies (in Order)"
 
+metadata:
+  robots:
+    index: false
+    follow: true
+  canonical: 'https://foo.com'
+  title: 'foobar'
+  openGraph:
+    url: 'https://foo.com'
+    siteName: foobar
+    locale: en
+    image:
+      - url: 'https://foo.com/img.jpeg'
+        width: 'foo'
+  twitter:
+    handle: '@dawaltco'
 ---
 
 Get ready to dive into the world of Aaliyah Movies! This roundup article will guide you through some of the most memorable and captivating films featuring the talented late singer and actress, Aaliyah. From her iconic on-screen performances to her powerful presence on the big screen, we explore the impact she left behind in the world of entertainment. So sit back, relax, and join us on this journey as we honor Aaliyah's legacy through her unforgettable movies. 
